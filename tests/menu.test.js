@@ -128,3 +128,16 @@ test('未知品牌食材去重并隔离于整餐推荐，骨汤保持每100克�
   assert.equal(items.find(x => x.name === '土豆粉（大份）').kcal, 522);
   assert.equal(recommend(items, { target: 500 }).length, 0);
 });
+test('街头小吃按组合重量和每把口径保留，不误归入已有品牌', () => {
+  const chicken = allMenu.filter(x => x.brand === '鸡柳大人');
+  const dishes = allMenu.filter(x => x.brand === '未确认品牌中式菜');
+  const skewers = allMenu.filter(x => x.brand === '未确认品牌炸串');
+  assert.equal(chicken.length, 24);
+  assert.equal(dishes.length, 24);
+  assert.equal(skewers.length, 36);
+  assert.equal(chicken.find(x => x.name === '四合一（鸡柳＋薯条＋年糕＋山药片）（特大份）').kcal, 973);
+  assert.equal(dishes.find(x => x.name === '米饭').kcal, null);
+  assert.equal(dishes.find(x => x.name === '米饭').kcalPer100g, 172);
+  assert.equal(skewers.find(x => x.name === '牛肉手把串').serving, '1把（10串）');
+  assert.equal(recommend([...dishes, ...skewers], { target: 500 }).length, 0);
+});

@@ -4192,6 +4192,678 @@ module.exports = [
     }
   },
   {
+    "id": "jiliu-xhs-001",
+    "brand": "鸡柳大人",
+    "name": "四合一（鸡柳＋薯条＋年糕＋山药片）（中份）",
+    "kcal": 617,
+    "kcalPer100g": null,
+    "serving": "中份 / 220g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "220g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "四合一（鸡柳＋薯条＋年糕＋山药片）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-002",
+    "brand": "鸡柳大人",
+    "name": "四合一（鸡柳＋薯条＋年糕＋山药片）（大份）",
+    "kcal": 733,
+    "kcalPer100g": null,
+    "serving": "大份 / 260g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "260g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "四合一（鸡柳＋薯条＋年糕＋山药片）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-003",
+    "brand": "鸡柳大人",
+    "name": "四合一（鸡柳＋薯条＋年糕＋山药片）（特大份）",
+    "kcal": 973,
+    "kcalPer100g": null,
+    "serving": "特大份 / 350g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "350g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "四合一（鸡柳＋薯条＋年糕＋山药片）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-004",
+    "brand": "鸡柳大人",
+    "name": "三合一（鸡柳＋年糕＋薯条）（中份）",
+    "kcal": 586,
+    "kcalPer100g": null,
+    "serving": "中份 / 220g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "220g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "三合一（鸡柳＋年糕＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-005",
+    "brand": "鸡柳大人",
+    "name": "三合一（鸡柳＋年糕＋薯条）（大份）",
+    "kcal": 692,
+    "kcalPer100g": null,
+    "serving": "大份 / 260g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "260g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "三合一（鸡柳＋年糕＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-006",
+    "brand": "鸡柳大人",
+    "name": "三合一（鸡柳＋年糕＋薯条）（特大份）",
+    "kcal": 927,
+    "kcalPer100g": null,
+    "serving": "特大份 / 350g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "350g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "三合一（鸡柳＋年糕＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-007",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋薯条）（中份）",
+    "kcal": 346,
+    "kcalPer100g": null,
+    "serving": "中份 / 120g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "120g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-008",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋薯条）（大份）",
+    "kcal": 404,
+    "kcalPer100g": null,
+    "serving": "大份 / 140g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "140g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-009",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋薯条）（特大份）",
+    "kcal": 519,
+    "kcalPer100g": null,
+    "serving": "特大份 / 180g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "180g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋薯条）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-010",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋年糕）（中份）",
+    "kcal": 407,
+    "kcalPer100g": null,
+    "serving": "中份 / 160g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "160g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋年糕）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-011",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋年糕）（大份）",
+    "kcal": 484,
+    "kcalPer100g": null,
+    "serving": "大份 / 190g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "190g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋年糕）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-012",
+    "brand": "鸡柳大人",
+    "name": "二合一（鸡柳＋年糕）（特大份）",
+    "kcal": 658,
+    "kcalPer100g": null,
+    "serving": "特大份 / 260g",
+    "category": "组合小吃",
+    "sourceWeightLabel": "260g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": true,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "二合一（鸡柳＋年糕）"
+    }
+  },
+  {
+    "id": "jiliu-xhs-013",
+    "brand": "鸡柳大人",
+    "name": "甘梅地瓜条",
+    "kcal": 40,
+    "kcalPer100g": null,
+    "serving": "1根 / 23g",
+    "category": "小吃",
+    "sourceWeightLabel": "23g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "甘梅地瓜条"
+    }
+  },
+  {
+    "id": "jiliu-xhs-014",
+    "brand": "鸡柳大人",
+    "name": "虾片",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "serving": "1片 / 2g",
+    "category": "小吃",
+    "sourceWeightLabel": "2g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "虾片"
+    }
+  },
+  {
+    "id": "jiliu-xhs-015",
+    "brand": "鸡柳大人",
+    "name": "荞麦片",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "serving": "1片 / 2g",
+    "category": "小吃",
+    "sourceWeightLabel": "2g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "荞麦片"
+    }
+  },
+  {
+    "id": "jiliu-xhs-016",
+    "brand": "鸡柳大人",
+    "name": "鸡肉薯条",
+    "kcal": 50,
+    "kcalPer100g": null,
+    "serving": "1根 / 18g",
+    "category": "小吃",
+    "sourceWeightLabel": "18g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "鸡肉薯条"
+    }
+  },
+  {
+    "id": "jiliu-xhs-017",
+    "brand": "鸡柳大人",
+    "name": "鸡柳",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "serving": "1根 / 4g",
+    "category": "小吃",
+    "sourceWeightLabel": "4g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "鸡柳"
+    }
+  },
+  {
+    "id": "jiliu-xhs-018",
+    "brand": "鸡柳大人",
+    "name": "年糕",
+    "kcal": 20,
+    "kcalPer100g": null,
+    "serving": "1片 / 8g",
+    "category": "小吃",
+    "sourceWeightLabel": "8g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "年糕"
+    }
+  },
+  {
+    "id": "jiliu-xhs-019",
+    "brand": "鸡柳大人",
+    "name": "炸鸡腿",
+    "kcal": 234,
+    "kcalPer100g": null,
+    "serving": "1个 / 100g",
+    "category": "小吃",
+    "sourceWeightLabel": "100g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "炸鸡腿"
+    }
+  },
+  {
+    "id": "jiliu-xhs-020",
+    "brand": "鸡柳大人",
+    "name": "蒜香排骨",
+    "kcal": 57,
+    "kcalPer100g": null,
+    "serving": "1块 / 25g",
+    "category": "小吃",
+    "sourceWeightLabel": "25g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "蒜香排骨"
+    }
+  },
+  {
+    "id": "jiliu-xhs-021",
+    "brand": "鸡柳大人",
+    "name": "薯条",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "serving": "1根 / 3g",
+    "category": "小吃",
+    "sourceWeightLabel": "3g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "薯条"
+    }
+  },
+  {
+    "id": "jiliu-xhs-022",
+    "brand": "鸡柳大人",
+    "name": "炸山药片",
+    "kcal": 6,
+    "kcalPer100g": null,
+    "serving": "1根 / 1g",
+    "category": "小吃",
+    "sourceWeightLabel": "1g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "炸山药片"
+    }
+  },
+  {
+    "id": "jiliu-xhs-023",
+    "brand": "鸡柳大人",
+    "name": "掌中宝",
+    "kcal": 18,
+    "kcalPer100g": null,
+    "serving": "1块 / 9g",
+    "category": "小吃",
+    "sourceWeightLabel": "9g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "掌中宝"
+    }
+  },
+  {
+    "id": "jiliu-xhs-024",
+    "brand": "鸡柳大人",
+    "name": "香辣里脊肉",
+    "kcal": 180,
+    "kcalPer100g": null,
+    "serving": "1块 / 70g",
+    "category": "小吃",
+    "sourceWeightLabel": "70g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "品牌仅依据图片包装文字识别，非品牌官方数据。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的鸡柳大人热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "香辣里脊肉"
+    }
+  },
+  {
     "name": "纯果乐百分百苹果汁",
     "kcal": 118,
     "fat": 0,
@@ -12803,6 +13475,1686 @@ module.exports = [
           "kcalLabel": "366 kcal/个"
         }
       ]
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-001",
+    "brand": "未确认品牌中式菜",
+    "name": "葱油鸡",
+    "kcal": 342,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-002",
+    "brand": "未确认品牌中式菜",
+    "name": "西兰花炒鸡胸肉",
+    "kcal": 207,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-003",
+    "brand": "未确认品牌中式菜",
+    "name": "小炒鸡丁",
+    "kcal": 270,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-004",
+    "brand": "未确认品牌中式菜",
+    "name": "蒜蓉粉丝虾",
+    "kcal": 95,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第4列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-005",
+    "brand": "未确认品牌中式菜",
+    "name": "毛豆烧鸡",
+    "kcal": 365,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-006",
+    "brand": "未确认品牌中式菜",
+    "name": "金牌老母鸡汤",
+    "kcal": 175,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-007",
+    "brand": "未确认品牌中式菜",
+    "name": "剁椒鱼头",
+    "kcal": 320,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-008",
+    "brand": "未确认品牌中式菜",
+    "name": "白菜炖豆腐",
+    "kcal": 165,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第4列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-009",
+    "brand": "未确认品牌中式菜",
+    "name": "豉汁鱼块",
+    "kcal": 218,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-010",
+    "brand": "未确认品牌中式菜",
+    "name": "农家蒸蛋",
+    "kcal": 84,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-011",
+    "brand": "未确认品牌中式菜",
+    "name": "蒸南瓜",
+    "kcal": 130,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-012",
+    "brand": "未确认品牌中式菜",
+    "name": "卤鸡腿",
+    "kcal": 129,
+    "kcalPer100g": null,
+    "serving": "1个（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第4列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-013",
+    "brand": "未确认品牌中式菜",
+    "name": "葱油菜苔",
+    "kcal": 112,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-014",
+    "brand": "未确认品牌中式菜",
+    "name": "西红柿炒鸡蛋",
+    "kcal": 375,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-015",
+    "brand": "未确认品牌中式菜",
+    "name": "红烧茄子",
+    "kcal": 261,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-016",
+    "brand": "未确认品牌中式菜",
+    "name": "菠萝咕咾肉",
+    "kcal": 456,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第4列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-017",
+    "brand": "未确认品牌中式菜",
+    "name": "金汤酸菜鱼",
+    "kcal": 276,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-018",
+    "brand": "未确认品牌中式菜",
+    "name": "农家小炒肉",
+    "kcal": 365,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-019",
+    "brand": "未确认品牌中式菜",
+    "name": "蒜苔炒鸡胗",
+    "kcal": 205,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-020",
+    "brand": "未确认品牌中式菜",
+    "name": "肉饼蒸蛋",
+    "kcal": 250,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第4列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-021",
+    "brand": "未确认品牌中式菜",
+    "name": "嫩蒸豆腐",
+    "kcal": 224,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第1列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-022",
+    "brand": "未确认品牌中式菜",
+    "name": "冬瓜马蹄鸡汤",
+    "kcal": 136,
+    "kcalPer100g": null,
+    "serving": "1份（克重未知）",
+    "category": "菜品",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第2列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-023",
+    "brand": "未确认品牌中式菜",
+    "name": "米饭",
+    "kcal": null,
+    "kcalPer100g": 172,
+    "serving": "100g",
+    "category": "主食",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第3列"
+    }
+  },
+  {
+    "id": "unknown-dishes-xhs-024",
+    "brand": "未确认品牌中式菜",
+    "name": "藜麦玉米饭",
+    "kcal": null,
+    "kcalPer100g": 192,
+    "serving": "100g",
+    "category": "主食",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "不与已收录品牌的同名餐品合并；原图未明确品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌中式菜热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-001",
+    "brand": "未确认品牌炸串",
+    "name": "夸父大里脊",
+    "kcal": 148,
+    "kcalPer100g": null,
+    "serving": "1串 / 50g",
+    "category": "小吃",
+    "sourceWeightLabel": "50g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-002",
+    "brand": "未确认品牌炸串",
+    "name": "生炸鸡腿",
+    "kcal": 268,
+    "kcalPer100g": null,
+    "serving": "1个 / 110g",
+    "category": "小吃",
+    "sourceWeightLabel": "110g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-003",
+    "brand": "未确认品牌炸串",
+    "name": "水磨大年糕",
+    "kcal": 152,
+    "kcalPer100g": null,
+    "serving": "1串 / 60g",
+    "category": "小吃",
+    "sourceWeightLabel": "60g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-004",
+    "brand": "未确认品牌炸串",
+    "name": "白吉馍",
+    "kcal": 240,
+    "kcalPer100g": null,
+    "serving": "1个 / 80g",
+    "category": "小吃",
+    "sourceWeightLabel": "80g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-005",
+    "brand": "未确认品牌炸串",
+    "name": "蜜汁鸡翅中",
+    "kcal": 120,
+    "kcalPer100g": null,
+    "serving": "1份 / 65g",
+    "category": "小吃",
+    "sourceWeightLabel": "65g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-006",
+    "brand": "未确认品牌炸串",
+    "name": "东北脆壳大油边",
+    "kcal": 42,
+    "kcalPer100g": null,
+    "serving": "1串 / 12g",
+    "category": "小吃",
+    "sourceWeightLabel": "12g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第1行第6列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-007",
+    "brand": "未确认品牌炸串",
+    "name": "童年淀粉肠",
+    "kcal": 197,
+    "kcalPer100g": null,
+    "serving": "1串 / 77g",
+    "category": "小吃",
+    "sourceWeightLabel": "77g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-008",
+    "brand": "未确认品牌炸串",
+    "name": "旋风大面筋",
+    "kcal": 158,
+    "kcalPer100g": null,
+    "serving": "1串 / 70g",
+    "category": "小吃",
+    "sourceWeightLabel": "70g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-009",
+    "brand": "未确认品牌炸串",
+    "name": "鱼豆腐",
+    "kcal": 55,
+    "kcalPer100g": null,
+    "serving": "1串 / 28g",
+    "category": "小吃",
+    "sourceWeightLabel": "28g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-010",
+    "brand": "未确认品牌炸串",
+    "name": "嫩嫩鸡肉串",
+    "kcal": 40,
+    "kcalPer100g": null,
+    "serving": "1把（10串）",
+    "category": "小吃",
+    "sourceWeightLabel": "30g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片重量是每串还是整把未明确，因此只保留原始重量文字，不换算。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-011",
+    "brand": "未确认品牌炸串",
+    "name": "牛肉手把串",
+    "kcal": 60,
+    "kcalPer100g": null,
+    "serving": "1把（10串）",
+    "category": "小吃",
+    "sourceWeightLabel": "4g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片重量是每串还是整把未明确，因此只保留原始重量文字，不换算。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-012",
+    "brand": "未确认品牌炸串",
+    "name": "羊肉串",
+    "kcal": 7,
+    "kcalPer100g": null,
+    "serving": "1串 / 6g",
+    "category": "小吃",
+    "sourceWeightLabel": "6g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第2行第6列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-013",
+    "brand": "未确认品牌炸串",
+    "name": "香辣大鸡排",
+    "kcal": 276,
+    "kcalPer100g": null,
+    "serving": "1份 / 110g",
+    "category": "小吃",
+    "sourceWeightLabel": "110g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-014",
+    "brand": "未确认品牌炸串",
+    "name": "巴掌大鸡排",
+    "kcal": 236,
+    "kcalPer100g": null,
+    "serving": "1个 / 110g",
+    "category": "小吃",
+    "sourceWeightLabel": "110g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-015",
+    "brand": "未确认品牌炸串",
+    "name": "招牌生炸鸡架",
+    "kcal": 450,
+    "kcalPer100g": null,
+    "serving": "1份 / 220g",
+    "category": "小吃",
+    "sourceWeightLabel": "220g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-016",
+    "brand": "未确认品牌炸串",
+    "name": "招牌掌中宝",
+    "kcal": 14,
+    "kcalPer100g": null,
+    "serving": "1串 / 12g",
+    "category": "小吃",
+    "sourceWeightLabel": "12g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-017",
+    "brand": "未确认品牌炸串",
+    "name": "酸辣粉",
+    "kcal": 540,
+    "kcalPer100g": null,
+    "serving": "1份 / 320g",
+    "category": "小吃",
+    "sourceWeightLabel": "320g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-018",
+    "brand": "未确认品牌炸串",
+    "name": "鱿鱼须",
+    "kcal": 25,
+    "kcalPer100g": null,
+    "serving": "1串 / 18g",
+    "category": "小吃",
+    "sourceWeightLabel": "18g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第3行第6列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-019",
+    "brand": "未确认品牌炸串",
+    "name": "脆脆小郡肝",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "serving": "1串 / 4g",
+    "category": "小吃",
+    "sourceWeightLabel": "4g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-020",
+    "brand": "未确认品牌炸串",
+    "name": "孜然大肉串",
+    "kcal": 25,
+    "kcalPer100g": null,
+    "serving": "1串 / 15g",
+    "category": "小吃",
+    "sourceWeightLabel": "15g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-021",
+    "brand": "未确认品牌炸串",
+    "name": "焦香大片猪肉片",
+    "kcal": 30,
+    "kcalPer100g": null,
+    "serving": "1串 / 6g",
+    "category": "小吃",
+    "sourceWeightLabel": "6g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-022",
+    "brand": "未确认品牌炸串",
+    "name": "雪花鸡肉棒",
+    "kcal": 123,
+    "kcalPer100g": null,
+    "serving": "1份 / 50g",
+    "category": "小吃",
+    "sourceWeightLabel": "50g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-023",
+    "brand": "未确认品牌炸串",
+    "name": "鸡柳年糕薯条三合一",
+    "kcal": 570,
+    "kcalPer100g": null,
+    "serving": "1份",
+    "category": "小吃",
+    "sourceWeightLabel": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-024",
+    "brand": "未确认品牌炸串",
+    "name": "骨肉相连",
+    "kcal": 40,
+    "kcalPer100g": null,
+    "serving": "1串 / 22g",
+    "category": "小吃",
+    "sourceWeightLabel": "22g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第4行第6列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-025",
+    "brand": "未确认品牌炸串",
+    "name": "劲脆鸭肠串",
+    "kcal": 60,
+    "kcalPer100g": null,
+    "serving": "1把（20串）",
+    "category": "小吃",
+    "sourceWeightLabel": "1g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片重量是每串还是整把未明确，因此只保留原始重量文字，不换算。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-026",
+    "brand": "未确认品牌炸串",
+    "name": "轰炸鱿鱼",
+    "kcal": 62,
+    "kcalPer100g": null,
+    "serving": "1串 / 35g",
+    "category": "小吃",
+    "sourceWeightLabel": "35g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-027",
+    "brand": "未确认品牌炸串",
+    "name": "广式小腊肠",
+    "kcal": 23,
+    "kcalPer100g": null,
+    "serving": "1小串 / 6g",
+    "category": "小吃",
+    "sourceWeightLabel": "6g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-028",
+    "brand": "未确认品牌炸串",
+    "name": "金针菇",
+    "kcal": 45,
+    "kcalPer100g": null,
+    "serving": "1串 / 20g",
+    "category": "小吃",
+    "sourceWeightLabel": "20g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-029",
+    "brand": "未确认品牌炸串",
+    "name": "美味娃娃菜",
+    "kcal": 22,
+    "kcalPer100g": null,
+    "serving": "1串 / 20g",
+    "category": "小吃",
+    "sourceWeightLabel": "20g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-030",
+    "brand": "未确认品牌炸串",
+    "name": "香糯土豆片",
+    "kcal": 33,
+    "kcalPer100g": null,
+    "serving": "1串 / 23g",
+    "category": "小吃",
+    "sourceWeightLabel": "23g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第5行第6列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-031",
+    "brand": "未确认品牌炸串",
+    "name": "拉丝芝士热狗棒",
+    "kcal": 270,
+    "kcalPer100g": null,
+    "serving": "1串 / 90g",
+    "category": "小吃",
+    "sourceWeightLabel": "90g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第1列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-032",
+    "brand": "未确认品牌炸串",
+    "name": "台式炸烤肠",
+    "kcal": 270,
+    "kcalPer100g": null,
+    "serving": "1根 / 80g",
+    "category": "小吃",
+    "sourceWeightLabel": "80g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第2列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-033",
+    "brand": "未确认品牌炸串",
+    "name": "五星鸡块串",
+    "kcal": 205,
+    "kcalPer100g": null,
+    "serving": "1串 / 25g",
+    "category": "小吃",
+    "sourceWeightLabel": "25g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。原图205 kcal/串、25g，能量密度偏高，原样记录待核对。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第3列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-034",
+    "brand": "未确认品牌炸串",
+    "name": "入味鲜花菜",
+    "kcal": 33,
+    "kcalPer100g": null,
+    "serving": "1小串 / 18g",
+    "category": "小吃",
+    "sourceWeightLabel": "18g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第4列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-035",
+    "brand": "未确认品牌炸串",
+    "name": "夜市素鸡串",
+    "kcal": 100,
+    "kcalPer100g": null,
+    "serving": "1串 / 40g",
+    "category": "小吃",
+    "sourceWeightLabel": "40g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第5列"
+    }
+  },
+  {
+    "id": "unknown-skewers-xhs-036",
+    "brand": "未确认品牌炸串",
+    "name": "蝴蝶结豆扣串",
+    "kcal": 50,
+    "kcalPer100g": null,
+    "serving": "1串 / 18g",
+    "category": "小吃",
+    "sourceWeightLabel": "18g",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "recommendationEligible": false,
+    "reviewStatus": "image_transcribed_unverified",
+    "notes": "未因个别商品名称含品牌字样而推定整张图的品牌。图片来源、配方、生熟及当前菜单均未独立核验；只适用于图中份量。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供的未确认品牌炸串热量拼图（非官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "position": "第6行第6列"
     }
   },
   {
