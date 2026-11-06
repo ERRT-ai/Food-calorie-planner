@@ -1,0 +1,33 @@
+{
+  "id": "build-your-bowl-menu-screenshot-001",
+  "status": "needs_higher_resolution",
+  "brand": null,
+  "sourceType": "user_provided_screenshot",
+  "sourceUrl": null,
+  "recordedAt": "2026-11-06",
+  "title": "可组合餐碗配餐表：主食、蛋白质、蔬菜、撒料、酱料",
+  "visibleSections": [
+    "选主食",
+    "选蛋白质",
+    "选蔬菜",
+    "莎莎碎碎（撒料）",
+    "选酱料"
+  ],
+  "sourceClaim": "截图叠字称为官方数据；未独立核验",
+  "readability": "热量数字、计量单位和部分餐名分辨率不足，未转录营养值",
+  "recordsImported": 0,
+  "pendingFields": [
+    "品牌",
+    "完整餐名",
+    "对应热量",
+    "每份或每100g等单位",
+    "餐品份量",
+    "配餐选择与叠加规则"
+  ],
+  "nextStep": "需要原图或主食、蛋白质、蔬菜、撒料、酱料各区域的清晰近照",
+  "notes": [
+    "不要把每份和每100g数据混用",
+    "组合餐需确认各组件份量后才能相加",
+    "截图标题中的减重宣称不作为本项目结论"
+  ]
+}
