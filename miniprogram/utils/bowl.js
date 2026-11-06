@@ -5,6 +5,7 @@ function calculateBowl(components) {
   const missing = Object.fromEntries(nutrients.map(key => [key, []]));
   const lines = components.map((item, index) => {
     if (!item.name || !item.name.trim()) throw new Error(`请填写第${index + 1}项配料名称`);
+    if (item.needsConfirmation && !item.portionConfirmed) throw new Error(`请先确认${item.name}的实际用量与来源标注份量一致`);
     if (!['serving', 'per100g'].includes(item.basis)) throw new Error('请选择按份或按100克计算');
     if (!Number.isFinite(item.amount) || item.amount <= 0) throw new Error('实际份数或克数必须大于0');
     const factor = item.basis === 'per100g' ? item.amount / 100 : item.amount;
