@@ -1,0 +1,11 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "navigationBarTitleText": "今晚吃多少",
+    "navigationBarBackgroundColor": "#f4f7f1",
+    "navigationBarTextStyle": "black"
+  },
+  "style": "v2"
+}

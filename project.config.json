@@ -1,0 +1,10 @@
+{
+  "miniprogramRoot": "miniprogram/",
+  "projectname": "dinner-calorie-planner",
+  "description": "按热量推荐品牌晚餐",
+  "appid": "touristappid",
+  "compileType": "miniprogram",
+  "setting": {
+    "es6": true
+  }
+}

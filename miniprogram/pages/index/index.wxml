@@ -1,0 +1,25 @@
+<view class="container">
+  <view class="eyebrow">DINNER PLANNER</view>
+  <view class="title">今晚，吃得刚刚好</view>
+  <view class="subtitle">参考品牌每份餐食的营养信息，找到适合你的晚餐。</view>
+  <view class="card">
+    <label>晚餐目标热量 · kcal</label>
+    <input type="digit" value="{{target}}" bindinput="onTarget" placeholder="例如 600" />
+    <label>最低蛋白质 · g（0 表示不限）</label>
+    <input type="digit" value="{{minProtein}}" bindinput="onProtein" />
+    <label>餐饮品牌</label>
+    <picker range="{{brands}}" value="{{brandIndex}}" bindchange="onBrand"><view class="picker">{{brands[brandIndex]}} ▾</view></picker>
+    <button bindtap="search">看看今晚吃什么</button>
+    <view class="error" wx:if="{{error}}">{{error}}</view>
+  </view>
+  <view class="note">数据准备中：尚未接入经核验的 Wagas / Tims 菜单。品牌未公开的营养值显示“未提供”。设置蛋白质要求后，会排除蛋白质未知的餐食。</view>
+  <view wx:if="{{searched &amp;&amp; results.length === 0}}" class="card">暂时没有符合条件的已验证餐食。</view>
+  <view wx:for="{{results}}" wx:key="id" class="card">
+    <view class="brand">{{item.brand}} · {{item.region}}</view>
+    <view class="name">{{item.name}}</view>
+    <view>{{item.kcal}} kcal / {{item.serving}} · 距目标 {{item.difference}} kcal</view>
+    <view class="macros">蛋白质 {{item.proteinLabel}} · 碳水 {{item.carbsLabel}} · 脂肪 {{item.fatLabel}}</view>
+    <view class="note">来源：{{item.source.title}} · 核验于 {{item.source.verifiedAt}}</view>
+    <text selectable class="note">{{item.source.url}}</text>
+  </view>
+</view>
