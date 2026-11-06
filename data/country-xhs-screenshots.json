@@ -1,0 +1,704 @@
+[
+  {
+    "id": "country-xhs-001",
+    "brand": "乡村基",
+    "name": "川香小炒肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 380,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-002",
+    "brand": "乡村基",
+    "name": "三杯鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 500,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-003",
+    "brand": "乡村基",
+    "name": "酸菜鱼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 170,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-004",
+    "brand": "乡村基",
+    "name": "砂锅麻婆豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 165,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-005",
+    "brand": "乡村基",
+    "name": "咸蛋黄狮子头",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 310,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-006",
+    "brand": "乡村基",
+    "name": "香糯把子肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 700,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-007",
+    "brand": "乡村基",
+    "name": "鱼香肉丝",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 228,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-008",
+    "brand": "乡村基",
+    "name": "干锅花菜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 150,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-009",
+    "brand": "乡村基",
+    "name": "荷叶糯米鸡",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 300,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-010",
+    "brand": "乡村基",
+    "name": "白菜豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-011",
+    "brand": "乡村基",
+    "name": "炒包菜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 92,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-012",
+    "brand": "乡村基",
+    "name": "番茄鸡蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 230,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-013",
+    "brand": "乡村基",
+    "name": "木耳鸡蛋炒红肠",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 248,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-014",
+    "brand": "乡村基",
+    "name": "蜜枣蒸南瓜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 100,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-015",
+    "brand": "乡村基",
+    "name": "荷塘小炒",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-016",
+    "brand": "乡村基",
+    "name": "笋丝鸡蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 220,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-017",
+    "brand": "乡村基",
+    "name": "青椒土豆丝",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 150,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-018",
+    "brand": "乡村基",
+    "name": "小炒长豆",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 126,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-019",
+    "brand": "乡村基",
+    "name": "小炒茭白",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 120,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-020",
+    "brand": "乡村基",
+    "name": "小炒香干",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 228,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-021",
+    "brand": "乡村基",
+    "name": "水煮肉片",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 475,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-022",
+    "brand": "乡村基",
+    "name": "马蹄肉饼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-023",
+    "brand": "乡村基",
+    "name": "肉饼蒸蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 230,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-024",
+    "brand": "乡村基",
+    "name": "营养蒸蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 140,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-025",
+    "brand": "乡村基",
+    "name": "咖喱鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-026",
+    "brand": "乡村基",
+    "name": "宫保鸡丁",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 250,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-027",
+    "brand": "乡村基",
+    "name": "地三鲜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 280,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第3列"
+    }
+  }
+]

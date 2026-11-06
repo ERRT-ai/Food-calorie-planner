@@ -38,7 +38,7 @@ def build():
     index = ['# 食物热量库', '', f'共 **{len(records)} 条**，来自用户提供的小红书截图。按品牌、餐食及做法版本区分；不是官方营养数据库。', '', '| 品牌 | 条目 | 热量可读 |', '| --- | ---: | ---: |']
     for brand in brands:
         items = [r for r in records if r['brand'] == brand]
-        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue', '和府捞面': 'hefu'}[brand]
+        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue', '和府捞面': 'hefu', '乡村基': 'country', '老乡鸡': 'laoxiangji'}[brand]
         index.append(f'| [{brand}]({slug}.md) | {len(items)} | {sum(r["kcal"] is not None for r in items)} |')
         lines = [f'# {brand} 热量参考', '', '单位：热量 kcal，蛋白质、碳水、脂肪 g。未知不是零；份量以该行注明为准。', '', '| 餐食 | 类别 | 份量 | kcal | 蛋白质 | 碳水 | 脂肪 | 备注 |', '| --- | --- | --- | ---: | ---: | ---: | ---: | --- |']
         for item in items:

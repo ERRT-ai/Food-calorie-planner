@@ -1,5 +1,707 @@
 [
   {
+    "id": "country-xhs-001",
+    "brand": "乡村基",
+    "name": "川香小炒肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 380,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-002",
+    "brand": "乡村基",
+    "name": "三杯鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 500,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-003",
+    "brand": "乡村基",
+    "name": "酸菜鱼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 170,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-004",
+    "brand": "乡村基",
+    "name": "砂锅麻婆豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 165,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-005",
+    "brand": "乡村基",
+    "name": "咸蛋黄狮子头",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 310,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-006",
+    "brand": "乡村基",
+    "name": "香糯把子肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 700,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-007",
+    "brand": "乡村基",
+    "name": "鱼香肉丝",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 228,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-008",
+    "brand": "乡村基",
+    "name": "干锅花菜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 150,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-009",
+    "brand": "乡村基",
+    "name": "荷叶糯米鸡",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 300,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-010",
+    "brand": "乡村基",
+    "name": "白菜豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-011",
+    "brand": "乡村基",
+    "name": "炒包菜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 92,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-012",
+    "brand": "乡村基",
+    "name": "番茄鸡蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 230,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-013",
+    "brand": "乡村基",
+    "name": "木耳鸡蛋炒红肠",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 248,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-014",
+    "brand": "乡村基",
+    "name": "蜜枣蒸南瓜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 100,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-015",
+    "brand": "乡村基",
+    "name": "荷塘小炒",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-016",
+    "brand": "乡村基",
+    "name": "笋丝鸡蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 220,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-017",
+    "brand": "乡村基",
+    "name": "青椒土豆丝",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 150,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-018",
+    "brand": "乡村基",
+    "name": "小炒长豆",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 126,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-019",
+    "brand": "乡村基",
+    "name": "小炒茭白",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 120,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-020",
+    "brand": "乡村基",
+    "name": "小炒香干",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 228,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-021",
+    "brand": "乡村基",
+    "name": "水煮肉片",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 475,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-022",
+    "brand": "乡村基",
+    "name": "马蹄肉饼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-023",
+    "brand": "乡村基",
+    "name": "肉饼蒸蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 230,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-024",
+    "brand": "乡村基",
+    "name": "营养蒸蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 140,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "country-xhs-025",
+    "brand": "乡村基",
+    "name": "咖喱鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "country-xhs-026",
+    "brand": "乡村基",
+    "name": "宫保鸡丁",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 250,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "country-xhs-027",
+    "brand": "乡村基",
+    "name": "地三鲜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 280,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「北京延庆万达广场」乡村基热量测评（用户截图，非品牌官方营养报告）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第3列"
+    }
+  },
+  {
     "id": "hefu-xhs-001",
     "brand": "和府捞面",
     "name": "经典2号·番茄软骨面",
@@ -2320,6 +3022,1780 @@
       "kcalLabel": "355 kcal"
     },
     "nutritionPrecision": "截图参考值（部分标为约数）"
+  },
+  {
+    "id": "laoxiangji-xhs-001",
+    "brand": "老乡鸡",
+    "name": "金牌老母鸡汤（小份）",
+    "category": "汤",
+    "serving": "小份",
+    "kcal": 175,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-002",
+    "brand": "老乡鸡",
+    "name": "金牌老母鸡汤（中份）",
+    "category": "汤",
+    "serving": "中份",
+    "kcal": 263,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-003",
+    "brand": "老乡鸡",
+    "name": "金牌老母鸡汤（大份）",
+    "category": "汤",
+    "serving": "大份",
+    "kcal": 350,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-004",
+    "brand": "老乡鸡",
+    "name": "冬瓜马蹄鸡汤",
+    "category": "汤",
+    "serving": "1份（克重未提供）",
+    "kcal": 136,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-005",
+    "brand": "老乡鸡",
+    "name": "葱油鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 366,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-006",
+    "brand": "老乡鸡",
+    "name": "梅菜扣肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 455,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-007",
+    "brand": "老乡鸡",
+    "name": "经典毛豆烧鸡",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 443,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-008",
+    "brand": "老乡鸡",
+    "name": "剁椒鱼头",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 320,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-009",
+    "brand": "老乡鸡",
+    "name": "番茄菌菇肉丸",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 188,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-010",
+    "brand": "老乡鸡",
+    "name": "豉汁鱼块",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 160,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片注明不含酱汁。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-011",
+    "brand": "老乡鸡",
+    "name": "咸蛋黄狮子头",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 358,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-012",
+    "brand": "老乡鸡",
+    "name": "金汤酸菜鱼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 270,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-013",
+    "brand": "老乡鸡",
+    "name": "农家蒸蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 68,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-014",
+    "brand": "老乡鸡",
+    "name": "菠萝咕咾肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 456,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-015",
+    "brand": "老乡鸡",
+    "name": "糖醋排骨",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 491,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第2行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-016",
+    "brand": "老乡鸡",
+    "name": "蒜蓉粉丝虾",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 95,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-017",
+    "brand": "老乡鸡",
+    "name": "鱼香肉丝",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 320,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-018",
+    "brand": "老乡鸡",
+    "name": "酸菜爆炒牛肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 496,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-019",
+    "brand": "老乡鸡",
+    "name": "西兰花炒鸡胸肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 207,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-020",
+    "brand": "老乡鸡",
+    "name": "西红柿炒鸡蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 260,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-021",
+    "brand": "老乡鸡",
+    "name": "小炒鸡丁",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 271,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第1行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-022",
+    "brand": "老乡鸡",
+    "name": "农家小炒肉",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 365,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-023",
+    "brand": "老乡鸡",
+    "name": "炝炒藕片",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 162,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-024",
+    "brand": "老乡鸡",
+    "name": "青椒炒茄子",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 180,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片注明不含酱汁。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-025",
+    "brand": "老乡鸡",
+    "name": "葱油菜苔",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 141,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-026",
+    "brand": "老乡鸡",
+    "name": "蒸嫩豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 112,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片注明不含酱汁。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-027",
+    "brand": "老乡鸡",
+    "name": "蒸南瓜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 137,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-028",
+    "brand": "老乡鸡",
+    "name": "白菜炖豆腐",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 70,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-029",
+    "brand": "老乡鸡",
+    "name": "红烧冬瓜",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 37,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片注明不含酱汁。图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第1行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-030",
+    "brand": "老乡鸡",
+    "name": "红烧茄子",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 340,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第1行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-031",
+    "brand": "老乡鸡",
+    "name": "青椒炒豆芽",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 234,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第2行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-032",
+    "brand": "老乡鸡",
+    "name": "家常土豆片",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 161,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第2行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-033",
+    "brand": "老乡鸡",
+    "name": "卤翅根",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 108,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片另标不去皮108 kcal、去皮90 kcal，按版本记录。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-034",
+    "brand": "老乡鸡",
+    "name": "卤鸡腿",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 129,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第3行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-035",
+    "brand": "老乡鸡",
+    "name": "卤方干",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第3行第2列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-036",
+    "brand": "老乡鸡",
+    "name": "咸鸭蛋",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 89,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "第3行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-037",
+    "brand": "老乡鸡",
+    "name": "卤肉肠",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 173,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第1行第1列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-038",
+    "brand": "老乡鸡",
+    "name": "香脆土豆饼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 243,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第1行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-039",
+    "brand": "老乡鸡",
+    "name": "炸肉肠",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 140,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第1行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-040",
+    "brand": "老乡鸡",
+    "name": "脆皮鸡翅",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 136,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第2行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-041",
+    "brand": "老乡鸡",
+    "name": "炸鸡排",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 145,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第2行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-042",
+    "brand": "老乡鸡",
+    "name": "卤鸡爪",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 80,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第2行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-043",
+    "brand": "老乡鸡",
+    "name": "香芋地瓜丸",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 275,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第3行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-044",
+    "brand": "老乡鸡",
+    "name": "炸鸡腿",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 292,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第3行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-045",
+    "brand": "老乡鸡",
+    "name": "香脆薯饼",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 50,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "第3行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-046",
+    "brand": "老乡鸡",
+    "name": "棒棒虾",
+    "category": "菜品",
+    "serving": "1份（克重未提供）",
+    "kcal": 41,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第1行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-047",
+    "brand": "老乡鸡",
+    "name": "花卷",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 192,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第1行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-048",
+    "brand": "老乡鸡",
+    "name": "老面馒头",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 180,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第1行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-049",
+    "brand": "老乡鸡",
+    "name": "糯米杂谷饭团",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 177,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第2行第1列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-050",
+    "brand": "老乡鸡",
+    "name": "黑全麦鸡丁包",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 177,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第2行第2列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-051",
+    "brand": "老乡鸡",
+    "name": "猴头菇山药玉米糊",
+    "category": "饮品",
+    "serving": "1份（克重未提供）",
+    "kcal": 64,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第2行第3列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-052",
+    "brand": "老乡鸡",
+    "name": "皮蛋瘦肉粥",
+    "category": "粥",
+    "serving": "1份（克重未提供）",
+    "kcal": 130,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第3行第1列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-053",
+    "brand": "老乡鸡",
+    "name": "现熬豆粥",
+    "category": "粥",
+    "serving": "1份（克重未提供）",
+    "kcal": 210,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第3行第2列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-054",
+    "brand": "老乡鸡",
+    "name": "原味豆浆",
+    "category": "饮品",
+    "serving": "1份（克重未提供）",
+    "kcal": 100,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6,
+      "position": "第3行第3列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-055",
+    "brand": "老乡鸡",
+    "name": "香菇鸡汤面",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 394,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第1行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-056",
+    "brand": "老乡鸡",
+    "name": "香辣牛肉面",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 450,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第1行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-057",
+    "brand": "老乡鸡",
+    "name": "Q弹虾滑混饨",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 220,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "按原图名称转录；混饨字样待核对。图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第1行第3列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-058",
+    "brand": "老乡鸡",
+    "name": "特色热干面",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 612,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第2行第1列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-059",
+    "brand": "老乡鸡",
+    "name": "特色鸡汤混饨",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 234,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "按原图名称转录；混饨字样待核对。图中状态“不在可售时间”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第2行第2列"
+    },
+    "availabilityAtCapture": "不在可售时间"
+  },
+  {
+    "id": "laoxiangji-xhs-060",
+    "brand": "老乡鸡",
+    "name": "米饭（小份）",
+    "category": "主食",
+    "serving": "小份",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第2行第3列"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-061",
+    "brand": "老乡鸡",
+    "name": "红米糙米红薯饭（小份）",
+    "category": "主食",
+    "serving": "小份",
+    "kcal": 224,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第3行第1列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-062",
+    "brand": "老乡鸡",
+    "name": "藜麦玉米饭（小份）",
+    "category": "主食",
+    "serving": "小份",
+    "kcal": 240,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第3行第2列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-063",
+    "brand": "老乡鸡",
+    "name": "粗粮盒",
+    "category": "主食",
+    "serving": "1份（克重未提供）",
+    "kcal": 172,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中状态“已售罄”仅代表截图当时，当前在售情况未知。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "第3行第3列"
+    },
+    "availabilityAtCapture": "已售罄"
+  },
+  {
+    "id": "laoxiangji-xhs-064",
+    "brand": "老乡鸡",
+    "name": "米饭（大份）",
+    "category": "主食",
+    "serving": "大份",
+    "kcal": 316,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "原图附加份量/做法标注"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-065",
+    "brand": "老乡鸡",
+    "name": "红米糙米红薯饭（大份）",
+    "category": "主食",
+    "serving": "大份",
+    "kcal": 300,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中已售罄，仅为截图当时状态。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "原图附加份量/做法标注"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-066",
+    "brand": "老乡鸡",
+    "name": "藜麦玉米饭（大份）",
+    "category": "主食",
+    "serving": "大份",
+    "kcal": 316,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图中已售罄，仅为截图当时状态。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 7,
+      "position": "原图附加份量/做法标注"
+    }
+  },
+  {
+    "id": "laoxiangji-xhs-067",
+    "brand": "老乡鸡",
+    "name": "卤翅根（去皮）",
+    "category": "菜品",
+    "serving": "1份（去皮）",
+    "kcal": 90,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "图片明确给出去皮后90 kcal，非程序自行扣减。来源为用户提供的非品牌营养报告截图，热量口径和菜单时效未独立核验；未提供米饭的菜品不能默认包含米饭。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」老乡鸡热量参考（用户截图，第三方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "原图附加份量/做法标注"
+    }
   },
   {
     "id": "mcd-update-xhs-001",

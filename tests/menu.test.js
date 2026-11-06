@@ -103,3 +103,17 @@ test('补充截图保留冲突值、去酱总热量和份量', () => {
   assert.match(hefu.find(x => x.name === '番茄沙葱腿肉面·现煮').notes, /不含汤/);
   assert.equal(mcd.find(x => x.name === '三文鱼双虾至尊月堡').protein, 25.3);
 });
+test('乡村基和老乡鸡保留品牌、份量、酱汁与截图状态', () => {
+  const country = allMenu.filter(x => x.brand === '乡村基');
+  const chicken = allMenu.filter(x => x.brand === '老乡鸡');
+  assert.equal(country.length, 27);
+  assert.equal(chicken.length, 67);
+  assert.equal(country.find(x => x.name === '咸蛋黄狮子头').kcal, 310);
+  assert.equal(chicken.find(x => x.name === '咸蛋黄狮子头').kcal, 358);
+  assert.equal(chicken.find(x => x.name === '金牌老母鸡汤（大份）').kcal, 350);
+  assert.equal(chicken.find(x => x.name === '卤翅根（去皮）').kcal, 90);
+  assert.equal(chicken.find(x => x.name === '红米糙米红薯饭（大份）').kcal, 300);
+  assert.match(chicken.find(x => x.name === '红烧冬瓜').notes, /不含酱汁/);
+  assert.equal(chicken.find(x => x.name === '炸鸡排').availabilityAtCapture, '已售罄');
+  assert.ok([...country, ...chicken].every(x => x.protein === null));
+});
