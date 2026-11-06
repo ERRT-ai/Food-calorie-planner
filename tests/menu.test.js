@@ -82,3 +82,13 @@ test('喜家德按来源和份量保留不同数值', () => {
   assert.equal(items.find(x => x.name === '凯里鲜蔬锅').kcalPer100g, null);
   assert.ok(items.every(x => x.protein === null));
 });
+test('奈雪保留甜度、零热量、分装配料和去料后总热量', () => {
+  const items = allMenu.filter(x => x.brand === '奈雪的茶');
+  assert.equal(items.length, 52);
+  assert.equal(items.filter(x => x.category === '配料').length, 6);
+  assert.equal(items.find(x => x.name === '鸭屎香乌龙纯茶').kcal, 0);
+  assert.equal(items.find(x => x.name === '超醒手打柠檬冰砖美式').preparation, '中杯冰微甜');
+  assert.equal(items.find(x => x.name === '手熬黑糖珍珠鲜牛奶（去黑糖珍珠）').kcal, 120);
+  assert.equal(items.find(x => x.name === '黑糖珍珠').kcal, 180);
+  assert.ok(items.every(x => x.protein === null));
+});

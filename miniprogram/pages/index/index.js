@@ -1,7 +1,7 @@
 const menu = require('../../data/menu');
 const { recommend } = require('../../utils/recommend');
 Page({
-  data: { target: '600', minProtein: '0', brands: ['全部', 'Wagas', '麦当劳', '肯德基', 'Tims', '袁记云饺', '喜家德'], brandIndex: 0, results: [], error: '', searched: false },
+  data: { target: '600', minProtein: '0', brands: ['全部', 'Wagas', '麦当劳', '肯德基', 'Tims', '袁记云饺', '喜家德', '奈雪的茶'], brandIndex: 0, results: [], error: '', searched: false },
   onTarget(e) { this.setData({ target: e.detail.value }); },
   onProtein(e) { this.setData({ minProtein: e.detail.value }); },
   onBrand(e) { this.setData({ brandIndex: Number(e.detail.value) }); },
