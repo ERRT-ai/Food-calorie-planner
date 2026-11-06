@@ -6,7 +6,7 @@
 
 [打开热量库](food-library/README.md) · [CSV 表格](food-library/foods.csv) · [JSON 数据](food-library/foods.json)
 
-共 201 条：Wagas 50、麦当劳 50、Tims 49、肯德基 52（含有酱／去酱及带皮／去皮版本）。修改 `data/*-xhs-screenshots.json` 后运行 `python scripts/build_library.py`，即可同步热量库和小程序。
+共 296 条：Wagas 50、麦当劳 50、Tims 49、袁记云饺 95、肯德基 52（含有酱／去酱及带皮／去皮版本）。修改 `data/*-xhs-screenshots.json` 后运行 `python scripts/build_library.py`，即可同步热量库和小程序。
 
 ## 当前状态
 
@@ -60,3 +60,9 @@ python -m unittest discover -s tests -p 'test_*.py'
 ## Tims 截图数据
 
 `data/tims-xhs-screenshots.json` 来源于用户提供的 5 页「林黛玉的热量研究所」TIMS 烘焙热量分享。菌菇鸡腿肉蔬菜卷在两页重复，仅录一条，保留两个截图位置；烤牛肉贝果堡辣味 595 kcal、不辣 550 kcal 分开记录。共 49 条。奶油芝士以每份计，其余以图片标注的每个计，克重与地区未核实。图中未提供蛋白质等数值，保持 null；无原笔记链接，不补造 URL。
+
+## 袁记云饺截图数据
+
+新增 95 条，按酱料、配菜、饺子和云吞不同份量、面食含汤/不喝汤版本分别记录。来自用户提供的 6 张截图，原图明确声明为手工称重估算、非官方营养成分。原图推广语未作为本项目的健康或减重建议。
+
+鲜虾蟹籽云吞保留热量区间，不取平均值；荠菜鲜肉饺和芹菜鲜肉饺的单只/整份数值不一致，已备注并保留原值。香芋鲜肉饺的小份480、标准份600、大份720也按原图记录，不能套用其他口味的份数。配菜成分热量已经包含在整份中，不重复计入；花生酱235 kcal只代表图示约33g酱料增量。未提供宏量营养数值，均为 null。

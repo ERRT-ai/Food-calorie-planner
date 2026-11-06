@@ -55,3 +55,18 @@ test('Tims重复项合并，辣味版本与配料口径独立', () => {
   assert.equal(tims.find(x => x.name === '原味奶油芝士').serving, '1份（克重未提供）');
   assert.ok(tims.every(x => x.protein === null && x.carbs === null && x.fat === null));
 });
+test('袁记按原图保留份量、区间和酱料增量', () => {
+  const yuanji = allMenu.filter(x => x.brand === '袁记云饺');
+  assert.equal(yuanji.length, 95);
+  assert.deepEqual(yuanji, require('../data/yuanji-xhs-screenshots.json'));
+  const range = yuanji.find(x => x.name === '鲜虾蟹籽云吞（标准份）');
+  assert.equal(range.kcal, null);
+  assert.deepEqual([range.kcalMin, range.kcalMax], [675, 780]);
+  const inconsistent = yuanji.find(x => x.name === '荠菜鲜肉饺（小份）');
+  assert.equal(inconsistent.kcal, 520);
+  assert.match(inconsistent.notes, /待核对/);
+  assert.equal(yuanji.find(x => x.name === '香芋鲜肉饺（小份）').kcal, 480);
+  assert.equal(yuanji.find(x => x.name === '花生酱').category, '酱料');
+  assert.equal(yuanji.find(x => x.name === '鲜虾蟹籽云吞面（不喝汤）').kcal, 519);
+  assert.ok(yuanji.every(x => x.protein === null));
+});

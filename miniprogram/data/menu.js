@@ -5635,5 +5635,2527 @@ module.exports = [
       "position": "右列5",
       "kcalLabel": "64 kcal"
     }
+  },
+  {
+    "id": "yuanji-xhs-001",
+    "brand": "袁记云饺",
+    "name": "油泼辣子",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "1包",
+    "kcal": 74,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-002",
+    "brand": "袁记云饺",
+    "name": "汤包",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "1包",
+    "kcal": 15,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-003",
+    "brand": "袁记云饺",
+    "name": "蒜蓉酱",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 40,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-004",
+    "brand": "袁记云饺",
+    "name": "醋",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "1包",
+    "kcal": 0,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-005",
+    "brand": "袁记云饺",
+    "name": "酱油",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "1包",
+    "kcal": 13,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-006",
+    "brand": "袁记云饺",
+    "name": "花生酱",
+    "category": "酱料",
+    "region": "未核实",
+    "serving": "干拌一份所用酱约33g",
+    "kcal": 235,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。此项仅为酱料热量，不是完整餐食。图片标注干拌额外 +235 kcal。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-007",
+    "brand": "袁记云饺",
+    "name": "棒大骨",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 260,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：可食肉 180 kcal、卤汁 80 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "可食肉": 180,
+      "卤汁": 80
+    }
+  },
+  {
+    "id": "yuanji-xhs-008",
+    "brand": "袁记云饺",
+    "name": "烫包菜",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 35,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：包菜 30 kcal、少许油 5 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "包菜": 30,
+      "少许油": 5
+    }
+  },
+  {
+    "id": "yuanji-xhs-009",
+    "brand": "袁记云饺",
+    "name": "裙带菜",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 40,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：裙带菜 25 kcal、调味香油 15 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "裙带菜": 25,
+      "调味香油": 15
+    }
+  },
+  {
+    "id": "yuanji-xhs-010",
+    "brand": "袁记云饺",
+    "name": "卤琵琶腿",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 180,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：鸡腿肉 140 kcal、卤汁油脂 40 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "鸡腿肉": 140,
+      "卤汁油脂": 40
+    }
+  },
+  {
+    "id": "yuanji-xhs-011",
+    "brand": "袁记云饺",
+    "name": "蒜蓉西兰花",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 75,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：西兰花 40 kcal、蒜蓉油脂 35 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "西兰花": 40,
+      "蒜蓉油脂": 35
+    }
+  },
+  {
+    "id": "yuanji-xhs-012",
+    "brand": "袁记云饺",
+    "name": "生烫牛肉猪肉丸",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 160,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：肉丸 145 kcal、汤底 15 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "肉丸": 145,
+      "汤底": 15
+    }
+  },
+  {
+    "id": "yuanji-xhs-013",
+    "brand": "袁记云饺",
+    "name": "爽口木耳",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 70,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：木耳 35 kcal、辣椒油调味 35 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "木耳": 35,
+      "辣椒油调味": 35
+    }
+  },
+  {
+    "id": "yuanji-xhs-014",
+    "brand": "袁记云饺",
+    "name": "肉沫豆芽",
+    "category": "配菜",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 130,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成热量：豆芽 40 kcal、肉沫 70 kcal、少量油脂 20 kcal。组成部分已包含在总热量内。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "豆芽": 40,
+      "肉沫": 70,
+      "少量油脂": 20
+    }
+  },
+  {
+    "id": "yuanji-xhs-015",
+    "brand": "袁记云饺",
+    "name": "香芋鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 40,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-016",
+    "brand": "袁记云饺",
+    "name": "香芋鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 480,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-017",
+    "brand": "袁记云饺",
+    "name": "香芋鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 600,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-018",
+    "brand": "袁记云饺",
+    "name": "香芋鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 720,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-019",
+    "brand": "袁记云饺",
+    "name": "芹菜黄鱼饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 47,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-020",
+    "brand": "袁记云饺",
+    "name": "芹菜黄鱼饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 470,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-021",
+    "brand": "袁记云饺",
+    "name": "芹菜黄鱼饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 564,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-022",
+    "brand": "袁记云饺",
+    "name": "芹菜黄鱼饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 705,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-023",
+    "brand": "袁记云饺",
+    "name": "鲜虾黄鱼饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 48,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-024",
+    "brand": "袁记云饺",
+    "name": "鲜虾黄鱼饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 480,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-025",
+    "brand": "袁记云饺",
+    "name": "鲜虾黄鱼饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 576,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-026",
+    "brand": "袁记云饺",
+    "name": "鲜虾黄鱼饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 720,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-027",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 41,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-028",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 410,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-029",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 492,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-030",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 615,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-031",
+    "brand": "袁记云饺",
+    "name": "香葱鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 49,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-032",
+    "brand": "袁记云饺",
+    "name": "香葱鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 490,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-033",
+    "brand": "袁记云饺",
+    "name": "香葱鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 588,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-034",
+    "brand": "袁记云饺",
+    "name": "香葱鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 735,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-035",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉煎饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 46,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-036",
+    "brand": "袁记云饺",
+    "name": "韭菜鲜肉煎饺（一人份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "一人份10个",
+    "kcal": 460,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-037",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 42,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-038",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 420,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-039",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 504,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-040",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 630,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-041",
+    "brand": "袁记云饺",
+    "name": "白菜鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 48,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-042",
+    "brand": "袁记云饺",
+    "name": "白菜鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 480,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-043",
+    "brand": "袁记云饺",
+    "name": "白菜鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 576,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-044",
+    "brand": "袁记云饺",
+    "name": "白菜鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 720,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-045",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉饺子（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 46,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-046",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉饺子（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 460,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-047",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉饺子（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 552,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-048",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉饺子（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 690,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-049",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 51,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-050",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 510,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-051",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 612,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-052",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 765,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-053",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 53,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只53、小份520，不能按10只直接换算；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-054",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 520,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只53、小份520，不能按10只直接换算；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-055",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 636,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只53、小份520，不能按10只直接换算；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-056",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 795,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只53、小份520，不能按10只直接换算；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-057",
+    "brand": "袁记云饺",
+    "name": "芹菜鲜肉饺（1只）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 45,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只45、标准份552、大份690，按12/15只推算不一致；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-058",
+    "brand": "袁记云饺",
+    "name": "芹菜鲜肉饺（小份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 450,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只45、标准份552、大份690，按12/15只推算不一致；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-059",
+    "brand": "袁记云饺",
+    "name": "芹菜鲜肉饺（标准份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 552,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只45、标准份552、大份690，按12/15只推算不一致；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-060",
+    "brand": "袁记云饺",
+    "name": "芹菜鲜肉饺（大份）",
+    "category": "饺子",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 690,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图中每只45、标准份552、大份690，按12/15只推算不一致；原值保留待核对。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-061",
+    "brand": "袁记云饺",
+    "name": "魔芋爽云饺辣条拌面",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 644,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成部分已包含在总热量中。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "拌面": 342,
+      "饺子": 210,
+      "辣条": 76,
+      "白菜": 16
+    }
+  },
+  {
+    "id": "yuanji-xhs-062",
+    "brand": "袁记云饺",
+    "name": "牛肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 35,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-063",
+    "brand": "袁记云饺",
+    "name": "牛肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 420,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-064",
+    "brand": "袁记云饺",
+    "name": "牛肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 525,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-065",
+    "brand": "袁记云饺",
+    "name": "牛肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 630,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-066",
+    "brand": "袁记云饺",
+    "name": "卤肉面",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 558,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。组成部分已包含在总热量中。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算",
+    "components": {
+      "面条约": 280,
+      "卤肉卤汁约": 220,
+      "配菜约": 58
+    }
+  },
+  {
+    "id": "yuanji-xhs-067",
+    "brand": "袁记云饺",
+    "name": "杂酱面（不加红油、不加麻酱）",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 450,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。图片标为约450大卡，不包含红油和麻酱。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-068",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞面（含汤）",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 539,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-069",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞面（不喝汤）",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份（不喝汤）",
+    "kcal": 519,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。为图片给出的不喝汤版本，非程序自行扣减。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-070",
+    "brand": "袁记云饺",
+    "name": "老坛酸菜牛腩面（含汤）",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份",
+    "kcal": 563,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-071",
+    "brand": "袁记云饺",
+    "name": "老坛酸菜牛腩面（不喝汤）",
+    "category": "面食",
+    "region": "未核实",
+    "serving": "1份（不喝汤）",
+    "kcal": 543,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。为图片给出的不喝汤版本，非程序自行扣减。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-072",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 22,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-073",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 264,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-074",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 330,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-075",
+    "brand": "袁记云饺",
+    "name": "魔芋爽鸡肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 396,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-076",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 44,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-077",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 528,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-078",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 660,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-079",
+    "brand": "袁记云饺",
+    "name": "冬菇马蹄鲜肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 792,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-080",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 48,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-081",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 576,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-082",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 720,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-083",
+    "brand": "袁记云饺",
+    "name": "荠菜鲜肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 864,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-084",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算",
+    "kcalMin": 45,
+    "kcalMax": 52
+  },
+  {
+    "id": "yuanji-xhs-085",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算",
+    "kcalMin": 540,
+    "kcalMax": 624
+  },
+  {
+    "id": "yuanji-xhs-086",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算",
+    "kcalMin": 675,
+    "kcalMax": 780
+  },
+  {
+    "id": "yuanji-xhs-087",
+    "brand": "袁记云饺",
+    "name": "鲜虾蟹籽云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算",
+    "kcalMin": 810,
+    "kcalMax": 936
+  },
+  {
+    "id": "yuanji-xhs-088",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 40,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-089",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 480,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-090",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 600,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-091",
+    "brand": "袁记云饺",
+    "name": "玉米鲜肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 720,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-092",
+    "brand": "袁记云饺",
+    "name": "招牌黑猪肉云吞（1只）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "1只",
+    "kcal": 41,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-093",
+    "brand": "袁记云饺",
+    "name": "招牌黑猪肉云吞（小份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "小份",
+    "kcal": 492,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-094",
+    "brand": "袁记云饺",
+    "name": "招牌黑猪肉云吞（标准份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "标准份",
+    "kcal": 615,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
+  },
+  {
+    "id": "yuanji-xhs-095",
+    "brand": "袁记云饺",
+    "name": "招牌黑猪肉云吞（大份）",
+    "category": "云吞",
+    "region": "未核实",
+    "serving": "大份",
+    "kcal": 738,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "第三方图片手工称重估算，非官方营养成分；门店现包、馅料肥瘦和大小会有浮动。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「袁记云饺掉秤吃法」（用户截图，非官方估算）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 6
+    },
+    "nutritionPrecision": "手工称重估算"
   }
 ];
