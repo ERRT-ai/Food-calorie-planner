@@ -70,3 +70,15 @@ test('袁记按原图保留份量、区间和酱料增量', () => {
   assert.equal(yuanji.find(x => x.name === '鲜虾蟹籽云吞面（不喝汤）').kcal, 519);
   assert.ok(yuanji.every(x => x.protein === null));
 });
+test('喜家德按来源和份量保留不同数值', () => {
+  const items = allMenu.filter(x => x.brand === '喜家德');
+  assert.equal(items.length, 45);
+  assert.equal(items.filter(x => x.sourceVersion === 'brand_account').length, 12);
+  const sameName = items.filter(x => x.name === '喜三鲜水饺');
+  assert.deepEqual(sameName.map(x => x.kcal), [535, 669, 720, 48]);
+  const soup = items.find(x => x.name === '豆米鲜蔬锅');
+  assert.equal(soup.kcal, 370);
+  assert.equal(soup.kcalPer100g, 61);
+  assert.equal(items.find(x => x.name === '凯里鲜蔬锅').kcalPer100g, null);
+  assert.ok(items.every(x => x.protein === null));
+});
