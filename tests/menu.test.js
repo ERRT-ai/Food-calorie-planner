@@ -117,3 +117,14 @@ test('乡村基和老乡鸡保留品牌、份量、酱汁与截图状态', () =>
   assert.equal(chicken.find(x => x.name === '炸鸡排').availabilityAtCapture, '已售罄');
   assert.ok([...country, ...chicken].every(x => x.protein === null));
 });
+test('未知品牌食材去重并隔离于整餐推荐，骨汤保持每100克口径', () => {
+  const items = allMenu.filter(x => x.brand === '未确认品牌食材');
+  assert.equal(items.length, 78);
+  assert.equal(items.filter(x => x.name === '千页豆腐').length, 1);
+  const soup = items.find(x => x.name === '骨汤');
+  assert.equal(soup.kcal, null);
+  assert.equal(soup.kcalPer100g, 150);
+  assert.equal(items.find(x => x.name === '火山石肉肠').serving, '1根');
+  assert.equal(items.find(x => x.name === '土豆粉（大份）').kcal, 522);
+  assert.equal(recommend(items, { target: 500 }).length, 0);
+});

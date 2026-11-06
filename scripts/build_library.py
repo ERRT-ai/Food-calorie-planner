@@ -23,7 +23,7 @@ def build():
     dump = json.dumps(records, ensure_ascii=False, indent=2)
     output = {'food-library/foods.json': dump + '\n',
               'miniprogram/data/menu.js': '// 自动生成：运行 python scripts/build_library.py；第三方截图参考值，非官方。\nmodule.exports = ' + dump + ';\n'}
-    columns = ['id', 'brand', 'name', 'category', 'serving', 'kcal', 'kcalMin', 'kcalMax', 'kcalPer100g', 'sourceVersion', 'preparation', 'protein', 'carbs', 'fat', 'region', 'notes', 'sourceTitle', 'sourceUrl', 'transcribedAt', 'reviewStatus']
+    columns = ['id', 'brand', 'name', 'category', 'serving', 'kcal', 'kcalMin', 'kcalMax', 'kcalPer100g', 'sourceVersion', 'preparation', 'recommendationEligible', 'protein', 'carbs', 'fat', 'region', 'notes', 'sourceTitle', 'sourceUrl', 'transcribedAt', 'reviewStatus']
     stream = io.StringIO(newline='')
     writer = csv.DictWriter(stream, fieldnames=columns)
     writer.writeheader()
@@ -38,7 +38,7 @@ def build():
     index = ['# 食物热量库', '', f'共 **{len(records)} 条**，来自用户提供的小红书截图。按品牌、餐食及做法版本区分；不是官方营养数据库。', '', '| 品牌 | 条目 | 热量可读 |', '| --- | ---: | ---: |']
     for brand in brands:
         items = [r for r in records if r['brand'] == brand]
-        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue', '和府捞面': 'hefu', '乡村基': 'country', '老乡鸡': 'laoxiangji'}[brand]
+        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue', '和府捞面': 'hefu', '乡村基': 'country', '老乡鸡': 'laoxiangji', '未确认品牌食材': 'hotpot'}[brand]
         index.append(f'| [{brand}]({slug}.md) | {len(items)} | {sum(r["kcal"] is not None for r in items)} |')
         lines = [f'# {brand} 热量参考', '', '单位：热量 kcal，蛋白质、碳水、脂肪 g。未知不是零；份量以该行注明为准。', '', '| 餐食 | 类别 | 份量 | kcal | 蛋白质 | 碳水 | 脂肪 | 备注 |', '| --- | --- | --- | ---: | ---: | ---: | ---: | --- |']
         for item in items:

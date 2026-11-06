@@ -1613,6 +1613,2585 @@ module.exports = [
     }
   },
   {
+    "id": "hotpot-xhs-001",
+    "brand": "未确认品牌食材",
+    "name": "小酥肉",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 91,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第1行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-002",
+    "brand": "未确认品牌食材",
+    "name": "原味牛肉片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 41,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第1行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-003",
+    "brand": "未确认品牌食材",
+    "name": "脆毛肚",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第1行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-004",
+    "brand": "未确认品牌食材",
+    "name": "巴沙鱼",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 38,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第1行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-005",
+    "brand": "未确认品牌食材",
+    "name": "菠菜刀削面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 176,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第2行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-006",
+    "brand": "未确认品牌食材",
+    "name": "安格斯肥牛卷",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 81,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第2行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-007",
+    "brand": "未确认品牌食材",
+    "name": "虾仁",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 16,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第2行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-008",
+    "brand": "未确认品牌食材",
+    "name": "响铃豆皮卷",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 80,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第2行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-009",
+    "brand": "未确认品牌食材",
+    "name": "潮汕牛肉丸",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 62,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第3行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-010",
+    "brand": "未确认品牌食材",
+    "name": "咸蛋黄夹心年糕",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 75,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第3行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-011",
+    "brand": "未确认品牌食材",
+    "name": "掌中宝",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 34,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第3行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-012",
+    "brand": "未确认品牌食材",
+    "name": "脆嫩小郡肝",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 25,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第3行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-013",
+    "brand": "未确认品牌食材",
+    "name": "腐皮三鲜卷",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 81,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第4行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-014",
+    "brand": "未确认品牌食材",
+    "name": "纯肉小腊肠",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 35,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第4行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-015",
+    "brand": "未确认品牌食材",
+    "name": "日式溏心蛋",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 75,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第4行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-016",
+    "brand": "未确认品牌食材",
+    "name": "北极翅",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 86,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第4行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-017",
+    "brand": "未确认品牌食材",
+    "name": "老式里脊肉",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 52,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第5行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-018",
+    "brand": "未确认品牌食材",
+    "name": "吸汁黄金豆衣",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 56,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第5行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-019",
+    "brand": "未确认品牌食材",
+    "name": "鹌鹑蛋",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 33,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第5行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-020",
+    "brand": "未确认品牌食材",
+    "name": "火山石肉肠",
+    "category": "食材",
+    "serving": "1根",
+    "kcal": 130,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第5行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-021",
+    "brand": "未确认品牌食材",
+    "name": "高蛋白鸡肉片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 97,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第6行第1列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-022",
+    "brand": "未确认品牌食材",
+    "name": "爆浆芝士肉肠",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 106,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第6行第2列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-023",
+    "brand": "未确认品牌食材",
+    "name": "火锅嫩鸭血",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 19,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第6行第3列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-024",
+    "brand": "未确认品牌食材",
+    "name": "薄皮肉燕饺子",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 60,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "第6行第4列",
+          "originalCategoryLabel": "肉类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-025",
+    "brand": "未确认品牌食材",
+    "name": "脆皮熏肠",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 66,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第1行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-026",
+    "brand": "未确认品牌食材",
+    "name": "午餐肉",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 70,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第1行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-027",
+    "brand": "未确认品牌食材",
+    "name": "海带苗",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 6,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第1行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-028",
+    "brand": "未确认品牌食材",
+    "name": "芋头条",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 27,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第1行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-029",
+    "brand": "未确认品牌食材",
+    "name": "蛋饺",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 90,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第2行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-030",
+    "brand": "未确认品牌食材",
+    "name": "蟹肉棒",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 44,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第2行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-031",
+    "brand": "未确认品牌食材",
+    "name": "空心菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第2行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-032",
+    "brand": "未确认品牌食材",
+    "name": "冬瓜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第2行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-033",
+    "brand": "未确认品牌食材",
+    "name": "芝士夹心年糕",
+    "category": "食材",
+    "serving": "1根",
+    "kcal": 24,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第3行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-034",
+    "brand": "未确认品牌食材",
+    "name": "贡菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 19,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第3行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-035",
+    "brand": "未确认品牌食材",
+    "name": "油麦菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 7,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第3行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-036",
+    "brand": "未确认品牌食材",
+    "name": "西兰花",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第3行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-037",
+    "brand": "未确认品牌食材",
+    "name": "笋尖",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 10,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第4行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-038",
+    "brand": "未确认品牌食材",
+    "name": "西葫芦",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 15,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第4行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-039",
+    "brand": "未确认品牌食材",
+    "name": "平菇",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 13,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第4行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-040",
+    "brand": "未确认品牌食材",
+    "name": "莴笋片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 8,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第4行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-041",
+    "brand": "未确认品牌食材",
+    "name": "红薯片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 66,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第5行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-042",
+    "brand": "未确认品牌食材",
+    "name": "小青菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 15,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第5行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-043",
+    "brand": "未确认品牌食材",
+    "name": "豆芽",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第5行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-044",
+    "brand": "未确认品牌食材",
+    "name": "生菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 10,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第5行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-045",
+    "brand": "未确认品牌食材",
+    "name": "茼蒿",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 14,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第6行第1列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-046",
+    "brand": "未确认品牌食材",
+    "name": "玉米",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 78,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第6行第2列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-047",
+    "brand": "未确认品牌食材",
+    "name": "白萝卜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 16,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第6行第3列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-048",
+    "brand": "未确认品牌食材",
+    "name": "香菇",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 8,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "第6行第4列",
+          "originalCategoryLabel": "蔬菜类"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-049",
+    "brand": "未确认品牌食材",
+    "name": "木耳",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 10,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第1行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-050",
+    "brand": "未确认品牌食材",
+    "name": "花菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第1行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-051",
+    "brand": "未确认品牌食材",
+    "name": "娃娃菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 11,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第1行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-052",
+    "brand": "未确认品牌食材",
+    "name": "金针菇",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 13,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第1行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-053",
+    "brand": "未确认品牌食材",
+    "name": "魔芋结",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 9,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第2行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-054",
+    "brand": "未确认品牌食材",
+    "name": "海带结",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 5,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第2行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-055",
+    "brand": "未确认品牌食材",
+    "name": "菠菜",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 13,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第2行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-056",
+    "brand": "未确认品牌食材",
+    "name": "豆皮",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 50,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第2行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-057",
+    "brand": "未确认品牌食材",
+    "name": "藕片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 24,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第3行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-058",
+    "brand": "未确认品牌食材",
+    "name": "土豆片",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 38,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第3行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-059",
+    "brand": "未确认品牌食材",
+    "name": "千张豆腐皮",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 50,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第3行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-060",
+    "brand": "未确认品牌食材",
+    "name": "豆香兰花干",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 117,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第3行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-061",
+    "brand": "未确认品牌食材",
+    "name": "原浆冻豆腐",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 73,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第4行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-062",
+    "brand": "未确认品牌食材",
+    "name": "千页豆腐",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 44,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第4行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        },
+        {
+          "page": 5,
+          "position": "第5行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-063",
+    "brand": "未确认品牌食材",
+    "name": "鸡胸肉丸",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 67,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第4行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-064",
+    "brand": "未确认品牌食材",
+    "name": "非油炸方便面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 208,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第4行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-065",
+    "brand": "未确认品牌食材",
+    "name": "手工原浆腐竹",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 50,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第5行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-066",
+    "brand": "未确认品牌食材",
+    "name": "魔芋面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 17,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第5行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-067",
+    "brand": "未确认品牌食材",
+    "name": "麦香刀削面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 327,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第5行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-068",
+    "brand": "未确认品牌食材",
+    "name": "爆汁小鱼丸",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 65,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第6行第1列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-069",
+    "brand": "未确认品牌食材",
+    "name": "面筋圈圈",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 45,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第6行第2列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-070",
+    "brand": "未确认品牌食材",
+    "name": "黑麦荞麦面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 207,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第6行第3列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-071",
+    "brand": "未确认品牌食材",
+    "name": "土豆粉",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 261,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图分区混有面食、加工肉和豆制品，originalCategoryLabel仅保留原图标签。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "第6行第4列",
+          "originalCategoryLabel": "素菜/豆类/面"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-072",
+    "brand": "未确认品牌食材",
+    "name": "日式鲜拉面",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 289,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目1",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-073",
+    "brand": "未确认品牌食材",
+    "name": "土豆粉（大份）",
+    "category": "食材",
+    "serving": "大份（克重未知）",
+    "kcal": 522,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目2",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-074",
+    "brand": "未确认品牌食材",
+    "name": "红薯宽粉",
+    "category": "食材",
+    "serving": "1份（克重未知）",
+    "kcal": 224,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目3",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-075",
+    "brand": "未确认品牌食材",
+    "name": "骨汤",
+    "category": "汤底",
+    "serving": "100g",
+    "kcal": null,
+    "kcalPer100g": 150,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。原图仅提供150 kcal/100g，没有整份重量，kcal留空。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目4",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-076",
+    "brand": "未确认品牌食材",
+    "name": "秘制干拌酱",
+    "category": "酱料",
+    "serving": "1份（克重未知）",
+    "kcal": 205,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。仅指图示酱料份量，不是整碗餐食。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目5",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-077",
+    "brand": "未确认品牌食材",
+    "name": "麻酱",
+    "category": "酱料",
+    "serving": "1份（克重未知）",
+    "kcal": 170,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。仅指图示酱料份量，不是整碗餐食。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目6",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
+    "id": "hotpot-xhs-078",
+    "brand": "未确认品牌食材",
+    "name": "香辣蘸料",
+    "category": "酱料",
+    "serving": "1份（克重未知）",
+    "kcal": 40,
+    "kcalPer100g": null,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "reviewStatus": "image_transcribed_unverified_portion",
+    "recommendationEligible": false,
+    "notes": "来源截图未明确品牌、原料生熟及每份克重；不能套用到任意同名食材或每100克。仅指图示酱料份量，不是整碗餐食。",
+    "source": {
+      "type": "community_screenshot",
+      "title": "用户提供黄色底火锅／麻辣烫食材热量图（作者与品牌未核实）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "条目7",
+          "originalCategoryLabel": "面/汤/酱"
+        }
+      ]
+    }
+  },
+  {
     "name": "纯果乐百分百苹果汁",
     "kcal": 118,
     "fat": 0,
