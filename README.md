@@ -2,23 +2,29 @@
 
 微信原生小程序：参考 Wagas、Tims 等品牌每份餐食的热量推荐晚餐，并展示有公开来源的蛋白质、碳水和脂肪。
 
+## 食物热量库
+
+[打开热量库](food-library/README.md) · [CSV 表格](food-library/foods.csv) · [JSON 数据](food-library/foods.json)
+
+共 152 条：Wagas 50、麦当劳 50、肯德基 52（含有酱／去酱及带皮／去皮版本）。修改 `data/*-xhs-screenshots.json` 后运行 `python scripts/build_library.py`，即可同步热量库和小程序。
+
 ## 当前状态
 
 可运行的基础版本：目标热量输入、最低蛋白质筛选、品牌筛选、按热量差排序、空状态和数据来源展示。
-已录入用户提供的小红书截图：50 款 Wagas 餐品（49 款热量可读，1 款留空），以及 50 款麦当劳餐品。均为第三方参考值，非品牌官方数据。蛋白质、碳水、脂肪未提供。Tims 暂无数据。 不使用 USDA，也不将估算值冒充品牌官方数据。尚未完成微信开发者工具实机验证或微信审核发布。
+已录入用户提供的小红书截图：50 款 Wagas 餐品（49 款热量可读，1 款留空），以及 50 款麦当劳餐品。均为第三方参考值，非品牌官方数据。新增肯德基 52 条，包含截图可读的蛋白质、碳水和脂肪参考值。Wagas 与麦当劳的营养值仍留空。Tims 暂无数据。 不使用 USDA，也不将估算值冒充品牌官方数据。尚未完成微信开发者工具实机验证或微信审核发布。
 
 ## 开发
 
 1. 微信开发者工具导入仓库根目录。
 2. 使用测试号体验；正式开发需在本地配置自己的 AppID。
-3. 在 `miniprogram/data/menu.js` 录入经核验且获准使用的数据。
+3. 在 `data/*-xhs-screenshots.json` 维护数据，运行 `python scripts/build_library.py` 生成菜单和热量库。
 4. Node.js 18+ 执行 `npm test` 验证推荐算法。
 
 ## 菜单数据约定
 
 每条记录包含 `id`, `brand`, `name`, `region`, `serving`, `kcal`, `protein`, `carbs`, `fat` 和 `source`。
-`source` 包含 `title`, `url`, `verifiedAt`（YYYY-MM-DD）, `permission`（数据使用依据）。
-营养值均为**每份**，热量单位 kcal，其他单位 g。未知值为 null，不是 0。
+`source` 包含 `title`, `url`（缺失时为 null）, `transcribedAt`（转录日期）, `permission`（使用依据与未核实状态）。
+营养值均按**条目所注份量**，热量单位 kcal，其他单位 g。未知值为 null，不是 0。
 品牌数据必须记录地区、份量、官方出处与更新时间，不混用不同地区菜单；公开可查看不等于可批量转载。
 蛋白质要求大于 0 时，排除蛋白质未知的餐食。
 

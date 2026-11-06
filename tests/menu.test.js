@@ -31,3 +31,17 @@ test('麦当劳截图保留50项、零热量与未知规格', () => {
   assert.ok(mcd.every(x => x.source.url === null && x.protein === null));
   assert.ok(recommend(allMenu, { target: 500, brand: '麦当劳' }).every(x => x.brand === '麦当劳'));
 });
+test('肯德基做法版本、区间和蛋白质筛选保留原口径', () => {
+  const kfc = allMenu.filter(x => x.brand === '肯德基');
+  assert.equal(kfc.length, 52);
+  assert.deepEqual(kfc, require('../data/kfc-xhs-screenshots.json'));
+  const original = kfc.find(x => x.name === '吮指原味鸡');
+  assert.equal(original.kcal, null);
+  assert.equal(original.kcalMin, 240);
+  assert.equal(original.kcalMax, 320);
+  assert.equal(kfc.find(x => x.name === '香辣鸡腿堡（去酱）').kcal, 433);
+  assert.equal(kfc.find(x => x.name === '薄脆炸全鸡（去皮）').kcal, 500);
+  const results = recommend(allMenu, { target: 500, minProtein: 20, brand: '肯德基' });
+  assert.ok(results.length > 0);
+  assert.ok(results.every(x => x.protein >= 20 && Number.isFinite(x.kcal)));
+});
