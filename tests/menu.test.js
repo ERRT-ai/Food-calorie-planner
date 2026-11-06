@@ -45,3 +45,13 @@ test('肯德基做法版本、区间和蛋白质筛选保留原口径', () => {
   assert.ok(results.length > 0);
   assert.ok(results.every(x => x.protein >= 20 && Number.isFinite(x.kcal)));
 });
+test('Tims重复项合并，辣味版本与配料口径独立', () => {
+  const tims = allMenu.filter(x => x.brand === 'Tims');
+  assert.equal(tims.length, 49);
+  assert.deepEqual(tims, require('../data/tims-xhs-screenshots.json'));
+  assert.equal(tims.find(x => x.name === '菌菇鸡腿肉蔬菜卷').evidence.occurrences.length, 2);
+  assert.equal(tims.find(x => x.name === '烤牛肉贝果堡（辣味）').kcal, 595);
+  assert.equal(tims.find(x => x.name === '烤牛肉贝果堡（不辣）').kcal, 550);
+  assert.equal(tims.find(x => x.name === '原味奶油芝士').serving, '1份（克重未提供）');
+  assert.ok(tims.every(x => x.protein === null && x.carbs === null && x.fat === null));
+});

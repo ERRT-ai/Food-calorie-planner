@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "tims-xhs-001",
+    "brand": "Tims",
+    "name": "黑芝麻贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 330,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "左列1",
+          "kcalLabel": "330 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-002",
+    "brand": "Tims",
+    "name": "五重谷物高纤贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 295,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "左列2",
+          "kcalLabel": "295 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-003",
+    "brand": "Tims",
+    "name": "芝士三重奏贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 184,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "左列3",
+          "kcalLabel": "184 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-004",
+    "brand": "Tims",
+    "name": "碱水红豆贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 221,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "左列4",
+          "kcalLabel": "221 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-005",
+    "brand": "Tims",
+    "name": "黑麦坚果多多贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 245,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "左列5",
+          "kcalLabel": "245 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-006",
+    "brand": "Tims",
+    "name": "芝香云朵蛋贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 331,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "右列1",
+          "kcalLabel": "331 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-007",
+    "brand": "Tims",
+    "name": "地中海蒜香风味贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 257,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "右列2",
+          "kcalLabel": "257 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-008",
+    "brand": "Tims",
+    "name": "热烤葱香辣贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 207,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "右列3",
+          "kcalLabel": "207 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-009",
+    "brand": "Tims",
+    "name": "低脂超模贝果·熏香鸡肉",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 201,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "右列4",
+          "kcalLabel": "201 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-010",
+    "brand": "Tims",
+    "name": "全麦贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 238,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 1,
+          "position": "右列5",
+          "kcalLabel": "238 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-011",
+    "brand": "Tims",
+    "name": "肉桂提子贝果",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 242,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "左列1",
+          "kcalLabel": "242 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-012",
+    "brand": "Tims",
+    "name": "微笑贝果·蓝莓芝士",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 243,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "左列2",
+          "kcalLabel": "243 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-013",
+    "brand": "Tims",
+    "name": "手握可颂·海苔芝麻",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 458,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "左列3",
+          "kcalLabel": "458 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-014",
+    "brand": "Tims",
+    "name": "手握可颂·芝士糯心",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 456,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "左列4",
+          "kcalLabel": "456 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-015",
+    "brand": "Tims",
+    "name": "泰式打抛肉盐可颂",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 179,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "左列5",
+          "kcalLabel": "179 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-016",
+    "brand": "Tims",
+    "name": "鎏金咸蛋黄肉蛋贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 469,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "右列1",
+          "kcalLabel": "469 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-017",
+    "brand": "Tims",
+    "name": "大虾牛油果贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 401,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "右列2",
+          "kcalLabel": "401 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-018",
+    "brand": "Tims",
+    "name": "泰绿咖喱鸡腿肉贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 435,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "右列3",
+          "kcalLabel": "435 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-019",
+    "brand": "Tims",
+    "name": "羽衣甘蓝牛油果贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 450,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "右列4",
+          "kcalLabel": "450 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-020",
+    "brand": "Tims",
+    "name": "黑松露培根安格斯贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 530,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 2,
+          "position": "右列5",
+          "kcalLabel": "530 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-021",
+    "brand": "Tims",
+    "name": "黑松露菌菇贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 376,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "左列1",
+          "kcalLabel": "376 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-022",
+    "brand": "Tims",
+    "name": "牛油果鸡肉贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 520,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "左列2",
+          "kcalLabel": "520 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-023",
+    "brand": "Tims",
+    "name": "辣烤蛋香鸡腿肉贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 464,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "左列3",
+          "kcalLabel": "464 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-024",
+    "brand": "Tims",
+    "name": "椒香鸡肉盐可颂",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 215,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "左列4",
+          "kcalLabel": "215 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-025",
+    "brand": "Tims",
+    "name": "蛋香牛肉芝士可颂",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 427,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "左列5",
+          "kcalLabel": "427 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-026",
+    "brand": "Tims",
+    "name": "蛋香鸡腿肉贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 460,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列1",
+          "kcalLabel": "460 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-027",
+    "brand": "Tims",
+    "name": "芝士流心蛋贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 324,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列2",
+          "kcalLabel": "324 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-028",
+    "brand": "Tims",
+    "name": "烤牛肉贝果堡（辣味）",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 595,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列3",
+          "kcalLabel": "595 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-029",
+    "brand": "Tims",
+    "name": "烤牛肉贝果堡（不辣）",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 550,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列3",
+          "kcalLabel": "550 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-030",
+    "brand": "Tims",
+    "name": "无肉也欢火腿蛋贝果堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 384,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列4",
+          "kcalLabel": "384 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-031",
+    "brand": "Tims",
+    "name": "芝士流心蛋可颂",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 378,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 3,
+          "position": "右列5",
+          "kcalLabel": "378 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-032",
+    "brand": "Tims",
+    "name": "Everything全能可颂",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 510,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "左列1",
+          "kcalLabel": "510 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-033",
+    "brand": "Tims",
+    "name": "芝士鸡肉可颂",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 374,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "左列2",
+          "kcalLabel": "374 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-034",
+    "brand": "Tims",
+    "name": "圆圆可颂",
+    "category": "烘焙",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 187,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "左列3",
+          "kcalLabel": "187 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-035",
+    "brand": "Tims",
+    "name": "法风香草味麻薯泡芙",
+    "category": "甜点",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 231,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "左列4",
+          "kcalLabel": "231 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-036",
+    "brand": "Tims",
+    "name": "浓醇巧克力麻薯泡芙",
+    "category": "甜点",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 271,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "左列5",
+          "kcalLabel": "271 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-037",
+    "brand": "Tims",
+    "name": "农夫卷",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 742,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "右列1",
+          "kcalLabel": "742 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-038",
+    "brand": "Tims",
+    "name": "牛肉嫩蛋农夫卷",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 703,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "右列2",
+          "kcalLabel": "703 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-039",
+    "brand": "Tims",
+    "name": "菌菇鸡腿肉蔬菜卷",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 385,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "右列3",
+          "kcalLabel": "385 kcal/个"
+        },
+        {
+          "page": 5,
+          "position": "右列3",
+          "kcalLabel": "385 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-040",
+    "brand": "Tims",
+    "name": "芝士嫩蛋鸡肉卷",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 296,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "右列4",
+          "kcalLabel": "296 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-041",
+    "brand": "Tims",
+    "name": "彩蔬欧姆蛋",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 67,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 4,
+          "position": "右列5",
+          "kcalLabel": "67 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-042",
+    "brand": "Tims",
+    "name": "烟熏风味烤肠",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 179,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "左列1",
+          "kcalLabel": "179 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-043",
+    "brand": "Tims",
+    "name": "原味奶油芝士",
+    "category": "配料",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 84,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每份热量；仅奶油芝士配料，不能当作完整贝果。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "左列2",
+          "kcalLabel": "84 kcal/份"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-044",
+    "brand": "Tims",
+    "name": "减脂奶油芝士",
+    "category": "配料",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 38,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每份热量；仅奶油芝士配料，不能当作完整贝果。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "左列3",
+          "kcalLabel": "38 kcal/份"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-045",
+    "brand": "Tims",
+    "name": "混合莓果奶油芝士",
+    "category": "配料",
+    "region": "未核实",
+    "serving": "1份（克重未提供）",
+    "kcal": 86,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每份热量；仅奶油芝士配料，不能当作完整贝果。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "左列4",
+          "kcalLabel": "86 kcal/份"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-046",
+    "brand": "Tims",
+    "name": "泰式甜辣嫩香鸡块",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 100,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "左列5",
+          "kcalLabel": "100 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-047",
+    "brand": "Tims",
+    "name": "蒙特利尔风味小肉丸",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 184,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "右列1",
+          "kcalLabel": "184 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-048",
+    "brand": "Tims",
+    "name": "香糯薯饼",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 211,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "右列2",
+          "kcalLabel": "211 kcal/个"
+        }
+      ]
+    }
+  },
+  {
+    "id": "tims-xhs-049",
+    "brand": "Tims",
+    "name": "芝士香肠嫩蛋卷",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "1个（按图标注，克重未提供）",
+    "kcal": 366,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "图中标注为每个热量；不是每100克。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」TIMS烘焙热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "occurrences": [
+        {
+          "page": 5,
+          "position": "右列4",
+          "kcalLabel": "366 kcal/个"
+        }
+      ]
+    }
+  }
+]
