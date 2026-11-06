@@ -703,6 +703,58 @@ module.exports = [
     }
   },
   {
+    "id": "foodbowl-official-001",
+    "brand": "超级碗FOODBOWL",
+    "name": "三文鱼多蛋白热烹沙拉",
+    "category": "主餐",
+    "serving": "约440g / 份",
+    "kcal": 510,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "官网未限定地区",
+    "reviewStatus": "brand_website_transcribed",
+    "notes": "品牌官网产品展示数据；未核实凌空SOHO店当前菜单、在售情况或默认配料是否相同。未提供蛋白质等克数，不根据菜名推算。",
+    "source": {
+      "type": "brand_website",
+      "title": "超级碗FOODBOWL官网·Product Display",
+      "url": "https://foodbowl.com/",
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "公开品牌产品介绍；未核实批量再分发许可"
+    },
+    "evidence": {
+      "weightGrams": 440,
+      "kcalPerServing": 510
+    }
+  },
+  {
+    "id": "foodbowl-official-002",
+    "brand": "超级碗FOODBOWL",
+    "name": "蜜汁鸡腿超级碗",
+    "category": "主餐",
+    "serving": "约473g / 份",
+    "kcal": 550,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "官网未限定地区",
+    "reviewStatus": "brand_website_transcribed",
+    "notes": "品牌官网产品展示数据；未核实凌空SOHO店当前菜单、在售情况或默认配料是否相同。未提供蛋白质等克数，不根据菜名推算。",
+    "source": {
+      "type": "brand_website",
+      "title": "超级碗FOODBOWL官网·Product Display",
+      "url": "https://foodbowl.com/",
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "公开品牌产品介绍；未核实批量再分发许可"
+    },
+    "evidence": {
+      "weightGrams": 473,
+      "kcalPerServing": 550
+    }
+  },
+  {
     "id": "hefu-xhs-001",
     "brand": "和府捞面",
     "name": "经典2号·番茄软骨面",

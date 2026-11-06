@@ -28,6 +28,14 @@
   "notes": [
     "不要把每份和每100g数据混用",
     "组合餐需确认各组件份量后才能相加",
-    "截图标题中的减重宣称不作为本项目结论"
-  ]
+    "截图标题中的减重宣称不作为本项目结论",
+    "官网整餐热量不能用于反推模糊截图中的组件数值。"
+  ],
+  "userProvidedStoreContext": {
+    "brand": "超级碗FOODBOWL",
+    "store": "凌空SOHO店",
+    "shareUrl": "http://dpurl.cn/WnDCOrKz",
+    "verification": "用户提供门店名称；短链接已跳转美团菜单框架，未取得实际菜单，未独立确认截图与门店对应关系"
+  },
+  "relatedBrandWebsite": "https://foodbowl.com/"
 }

@@ -141,3 +141,10 @@ test('街头小吃按组合重量和每把口径保留，不误归入已有品�
   assert.equal(skewers.find(x => x.name === '牛肉手把串').serving, '1把（10串）');
   assert.equal(recommend([...dishes, ...skewers], { target: 500 }).length, 0);
 });
+test('FOODBOWL官网数据与未知门店菜单区分', () => {
+  const items = allMenu.filter(x => x.brand === '超级碗FOODBOWL');
+  assert.equal(items.length, 2);
+  assert.equal(items.find(x => x.name === '蜜汁鸡腿超级碗').kcal, 550);
+  assert.ok(items.every(x => x.source.type === 'brand_website' && x.protein === null));
+  assert.ok(items.every(x => /未核实凌空SOHO店/.test(x.notes)));
+});

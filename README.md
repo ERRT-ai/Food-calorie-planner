@@ -6,7 +6,7 @@
 
 [打开热量库](food-library/README.md) · [CSV 表格](food-library/foods.csv) · [JSON 数据](food-library/foods.json)
 
-共 720 条：未确认品牌食材 78、未确认品牌中式菜 24、未确认品牌炸串 36、鸡柳大人 24、Wagas 50、乡村基 27、老乡鸡 67、麦当劳 86、和府捞面 35、Tims 49、袁记云饺 95、喜家德 45、奈雪的茶 52、肯德基 52（含有酱／去酱及带皮／去皮版本）。修改 `data/*-xhs-screenshots.json` 后运行 `python scripts/build_library.py`，即可同步热量库和小程序。
+共 722 条：未确认品牌食材 78、未确认品牌中式菜 24、未确认品牌炸串 36、鸡柳大人 24、超级碗FOODBOWL 2、Wagas 50、乡村基 27、老乡鸡 67、麦当劳 86、和府捞面 35、Tims 49、袁记云饺 95、喜家德 45、奈雪的茶 52、肯德基 52（含有酱／去酱及带皮／去皮版本）。修改 `data/*-xhs-screenshots.json` 后运行 `python scripts/build_library.py`，即可同步热量库和小程序。
 
 ## 当前状态
 
@@ -105,4 +105,10 @@ python -m unittest discover -s tests -p 'test_*.py'
 
 ## 待核对来源
 
-[可组合餐碗配餐表](data/sources/bowl-menu-pending.json)：用户截图可辨认主食、蛋白质、蔬菜、撒料和酱料分区，但热量和单位文字太小。品牌、餐名、份量与数值待清晰原图核对，尚未新增食物条目；热量库仍为720条。截图称“官方数据”未独立核验。
+[可组合餐碗配餐表](data/sources/bowl-menu-pending.json)：用户截图可辨认主食、蛋白质、蔬菜、撒料和酱料分区，但热量和单位文字太小。品牌、餐名、份量与数值待清晰原图核对，该截图尚未新增组件条目；另从FOODBOWL官网收录2款整餐，未确认与截图或门店菜单对应。截图称“官方数据”未独立核验。
+
+## 超级碗FOODBOWL
+
+用户提供凌空SOHO店美团分享链接 `http://dpurl.cn/WnDCOrKz`。短链接可跳转，但本次抓取只得到动态页面框架，未取得门店菜单；没有将用户提供的门店名称或模糊图片视为已核实的门店数据。
+
+[品牌官网](https://foodbowl.com/)产品展示明确提供两款整餐：三文鱼多蛋白热烹沙拉约440g、510 kcal；蜜汁鸡腿超级碗约473g、550 kcal。录入 `data/foodbowl-official-foods.json`，来源类型为 `brand_website`，不与第三方截图混淆。不据此推断组件热量，也未确认凌空SOHO店在售。未提供的宏量营养值留空。
