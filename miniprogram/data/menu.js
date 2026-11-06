@@ -1349,5 +1349,1355 @@ module.exports = [
       "position": "右列5",
       "kcalLabel": "64 kcal"
     }
+  },
+  {
+    "id": "mcd-xhs-1-01",
+    "brand": "麦当劳",
+    "name": "巨无霸汉堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 513,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "左列1",
+      "kcalLabel": "513 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-02",
+    "brand": "麦当劳",
+    "name": "麦辣鸡腿堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 485,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "左列2",
+      "kcalLabel": "485 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-03",
+    "brand": "麦当劳",
+    "name": "麦香鱼",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 325,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "左列3",
+      "kcalLabel": "325 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-04",
+    "brand": "麦当劳",
+    "name": "培根蔬萃双层牛堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 442,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "左列4",
+      "kcalLabel": "442 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-05",
+    "brand": "麦当劳",
+    "name": "芝士安格斯厚牛堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 696,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "左列5",
+      "kcalLabel": "696 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-06",
+    "brand": "麦当劳",
+    "name": "汉堡包",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 248,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "右列1",
+      "kcalLabel": "248 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-07",
+    "brand": "麦当劳",
+    "name": "麦香鸡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 370,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "右列2",
+      "kcalLabel": "370 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-08",
+    "brand": "麦当劳",
+    "name": "吉士汉堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 294,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "右列3",
+      "kcalLabel": "294 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-09",
+    "brand": "麦当劳",
+    "name": "培根安格斯厚牛堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 707,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "右列4",
+      "kcalLabel": "707 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-1-10",
+    "brand": "麦当劳",
+    "name": "板烧鸡腿堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 391,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "position": "右列5",
+      "kcalLabel": "391 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-01",
+    "brand": "麦当劳",
+    "name": "不素双层牛堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 493,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "左列1",
+      "kcalLabel": "493 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-02",
+    "brand": "麦当劳",
+    "name": "双层吉士堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 429,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "左列2",
+      "kcalLabel": "429 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-03",
+    "brand": "麦当劳",
+    "name": "苹果片",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 32,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "左列3",
+      "kcalLabel": "32 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-04",
+    "brand": "麦当劳",
+    "name": "脆脆薯条",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 279,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "左列4",
+      "kcalLabel": "279 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-05",
+    "brand": "麦当劳",
+    "name": "薄皮焦香V翅",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 192,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "左列5",
+      "kcalLabel": "192 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-06",
+    "brand": "麦当劳",
+    "name": "双层鳕鱼堡",
+    "category": "主餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 485,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "右列1",
+      "kcalLabel": "485 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-07",
+    "brand": "麦当劳",
+    "name": "玉米杯",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 53,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "右列2",
+      "kcalLabel": "53 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-08",
+    "brand": "麦当劳",
+    "name": "薯条",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 106,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "右列3",
+      "kcalLabel": "106 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-09",
+    "brand": "麦当劳",
+    "name": "麦辣鸡翅",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 224,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "右列4",
+      "kcalLabel": "224 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-2-10",
+    "brand": "麦当劳",
+    "name": "麦麦脆汁鸡（琵琶腿）",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 328,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "position": "右列5",
+      "kcalLabel": "328 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-01",
+    "brand": "麦当劳",
+    "name": "麦麦脆汁鸡（带骨里脊）",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 332,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "左列1",
+      "kcalLabel": "332 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-02",
+    "brand": "麦当劳",
+    "name": "麦乐鸡（5块）",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "5块",
+    "kcal": 213,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "左列2",
+      "kcalLabel": "213 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-03",
+    "brand": "麦当劳",
+    "name": "猪柳麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 308,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "左列3",
+      "kcalLabel": "308 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-04",
+    "brand": "麦当劳",
+    "name": "双层猪柳蛋麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 512,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "左列4",
+      "kcalLabel": "512 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-05",
+    "brand": "麦当劳",
+    "name": "大脆鸡扒麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 361,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "左列5",
+      "kcalLabel": "361 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-06",
+    "brand": "麦当劳",
+    "name": "风味薄皮脆汁鸡",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 173,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "右列1",
+      "kcalLabel": "173 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-07",
+    "brand": "麦当劳",
+    "name": "那么大鸡排",
+    "category": "配餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 385,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "右列2",
+      "kcalLabel": "385 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-08",
+    "brand": "麦当劳",
+    "name": "猪柳蛋麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 387,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "右列3",
+      "kcalLabel": "387 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-09",
+    "brand": "麦当劳",
+    "name": "火腿扒麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 261,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "右列4",
+      "kcalLabel": "261 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-3-10",
+    "brand": "麦当劳",
+    "name": "板烧鸡腿麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 246,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "position": "右列5",
+      "kcalLabel": "246 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-01",
+    "brand": "麦当劳",
+    "name": "双层板烧鸡腿麦满分",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 355,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "左列1",
+      "kcalLabel": "355 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-02",
+    "brand": "麦当劳",
+    "name": "猪柳炒双蛋堡",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 437,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "左列2",
+      "kcalLabel": "437 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-03",
+    "brand": "麦当劳",
+    "name": "图林根香肠早安营养卷",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 425,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "左列3",
+      "kcalLabel": "425 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-04",
+    "brand": "麦当劳",
+    "name": "皮蛋鸡肉粥",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 133,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "左列4",
+      "kcalLabel": "133 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-05",
+    "brand": "麦当劳",
+    "name": "脆香油条",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 202,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "左列5",
+      "kcalLabel": "202 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-06",
+    "brand": "麦当劳",
+    "name": "原味板烧鸡腿炒双蛋堡",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 419,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "右列1",
+      "kcalLabel": "419 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-07",
+    "brand": "麦当劳",
+    "name": "火腿扒早安营养卷",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 444,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "右列2",
+      "kcalLabel": "444 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-08",
+    "brand": "麦当劳",
+    "name": "脆薯饼",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 146,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "右列3",
+      "kcalLabel": "146 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-09",
+    "brand": "麦当劳",
+    "name": "雪菜脆笋鸡肉粥",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 120,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "右列4",
+      "kcalLabel": "120 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-4-10",
+    "brand": "麦当劳",
+    "name": "德式图林根香肠",
+    "category": "早餐",
+    "region": "未核实",
+    "serving": "图示份量（克重未提供）",
+    "kcal": 87,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "position": "右列5",
+      "kcalLabel": "87 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-01",
+    "brand": "麦当劳",
+    "name": "可口可乐",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 107,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "左列1",
+      "kcalLabel": "107 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-02",
+    "brand": "麦当劳",
+    "name": "阳光柠檬红茶",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 85,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "左列2",
+      "kcalLabel": "85 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-03",
+    "brand": "麦当劳",
+    "name": "怡泉+C",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 110,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "左列3",
+      "kcalLabel": "110 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-04",
+    "brand": "麦当劳",
+    "name": "美汁源黄金橙橙",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 165,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "左列4",
+      "kcalLabel": "165 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-05",
+    "brand": "麦当劳",
+    "name": "纯牛奶（盒装）",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "1盒（容量未核实）",
+    "kcal": 129,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "左列5",
+      "kcalLabel": "129 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-06",
+    "brand": "麦当劳",
+    "name": "无糖可口可乐",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 0,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "右列1",
+      "kcalLabel": "0 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-07",
+    "brand": "麦当劳",
+    "name": "雪碧",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 76,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "右列2",
+      "kcalLabel": "76 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-08",
+    "brand": "麦当劳",
+    "name": "阳光橙麦炫酷",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 228,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "右列3",
+      "kcalLabel": "228 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-09",
+    "brand": "麦当劳",
+    "name": "100%苹果汁",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 88,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "右列4",
+      "kcalLabel": "88 kcal"
+    }
+  },
+  {
+    "id": "mcd-xhs-5-10",
+    "brand": "麦当劳",
+    "name": "锡兰红茶",
+    "category": "饮品",
+    "region": "未核实",
+    "serving": "图示杯（容量未提供）",
+    "kcal": 2,
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "notes": "营养小字分辨率不足，蛋白质、碳水和脂肪暂不录入。饮料杯型与容量未核实，不应套用到所有规格。",
+    "reviewStatus": "image_transcribed",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳热量分享（用户截图，非官方）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 5,
+      "position": "右列5",
+      "kcalLabel": "2 kcal"
+    }
   }
 ];

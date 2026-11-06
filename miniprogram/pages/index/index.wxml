@@ -12,7 +12,7 @@
     <button bindtap="search">看看今晚吃什么</button>
     <view class="error" wx:if="{{error}}">{{error}}</view>
   </view>
-  <view class="note">已录入用户提供的 Wagas 小红书截图参考值，非官方数据，地区及菜单时效未核实；Tims 暂无数据。蛋白质等均未提供，设置蛋白质要求后将没有结果。</view>
+  <view class="note">已录入用户提供的 Wagas 与麦当劳小红书截图参考值，非官方数据，地区及菜单时效未核实；Tims 暂无数据。蛋白质等均未提供，设置蛋白质要求后将没有结果。</view>
   <view wx:if="{{searched &amp;&amp; results.length === 0}}" class="card">暂时没有符合条件的餐食；可将最低蛋白质设为 0。</view>
   <view wx:for="{{results}}" wx:key="id" class="card">
     <view class="brand">{{item.brand}} · {{item.region}}</view>
@@ -21,6 +21,6 @@
     <view wx:if="{{item.notes}}" class="note">{{item.notes}}</view>
     <view class="macros">蛋白质 {{item.proteinLabel}} · 碳水 {{item.carbsLabel}} · 脂肪 {{item.fatLabel}}</view>
     <view class="note">来源：{{item.source.title}} · 转录于 {{item.source.transcribedAt}}</view>
-    <text selectable class="note">{{item.source.url}}</text>
+    <text wx:if="{{item.source.url}}" selectable class="note">{{item.source.url}}</text>
   </view>
 </view>

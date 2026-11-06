@@ -1,6 +1,7 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const menu = require('../miniprogram/data/menu');
+const allMenu = require('../miniprogram/data/menu');
+const menu = allMenu.filter(x => x.brand === 'Wagas');
 const { recommend } = require('../miniprogram/utils/recommend');
 test('截图去重且未提供的营养值保持未知', () => {
   assert.equal(menu.length, 50);
@@ -18,4 +19,15 @@ test('每块口径和额外米饭热量不被混淆', () => {
   const soup = menu.find(x => x.name === '韩式牛肉泡菜汤');
   assert.equal(soup.kcal, 402);
   assert.match(soup.notes, /662/);
+});
+
+test('麦当劳截图保留50项、零热量与未知规格', () => {
+  const mcd = allMenu.filter(x => x.brand === '麦当劳');
+  assert.equal(mcd.length, 50);
+  assert.equal(new Set(mcd.map(x => x.name)).size, 50);
+  assert.deepEqual(mcd, require('../data/mcdonalds-xhs-screenshots.json'));
+  assert.equal(mcd.find(x => x.name === '无糖可口可乐').kcal, 0);
+  assert.equal(mcd.find(x => x.name === '麦乐鸡（5块）').serving, '5块');
+  assert.ok(mcd.every(x => x.source.url === null && x.protein === null));
+  assert.ok(recommend(allMenu, { target: 500, brand: '麦当劳' }).every(x => x.brand === '麦当劳'));
 });
