@@ -38,7 +38,7 @@ def build():
     index = ['# 食物热量库', '', f'共 **{len(records)} 条**，来自用户提供的小红书截图。按品牌、餐食及做法版本区分；不是官方营养数据库。', '', '| 品牌 | 条目 | 热量可读 |', '| --- | ---: | ---: |']
     for brand in brands:
         items = [r for r in records if r['brand'] == brand]
-        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue'}[brand]
+        slug = {'Wagas': 'wagas', '麦当劳': 'mcdonalds', '肯德基': 'kfc', 'Tims': 'tims', '袁记云饺': 'yuanji', '喜家德': 'xijiade', '奈雪的茶': 'naixue', '和府捞面': 'hefu'}[brand]
         index.append(f'| [{brand}]({slug}.md) | {len(items)} | {sum(r["kcal"] is not None for r in items)} |')
         lines = [f'# {brand} 热量参考', '', '单位：热量 kcal，蛋白质、碳水、脂肪 g。未知不是零；份量以该行注明为准。', '', '| 餐食 | 类别 | 份量 | kcal | 蛋白质 | 碳水 | 脂肪 | 备注 |', '| --- | --- | --- | ---: | ---: | ---: | ---: | --- |']
         for item in items:
@@ -49,7 +49,7 @@ def build():
             lines.append('| ' + ' | '.join(cell(v) for v in values) + ' |')
         lines += ['', '## 来源', '', '；'.join(dict.fromkeys(r['source']['title'] for r in items)), '', '转录日期：' + items[0]['source']['transcribedAt'], '', items[0]['source']['url'] or '未提供原笔记链接；可在 JSON 中用 evidence 页码与位置对照用户截图。', '']
         output[f'food-library/{slug}.md'] = '\n'.join(lines)
-    index += ['', '## 下载和使用', '', '- [CSV 表格](foods.csv)：Excel/WPS 导入，UTF-8 BOM；空单元格表示未知。', '- [JSON 数据](foods.json)：保留来源、页码、位置、区间和待核对备注。', '- 原始转录维护在 [`data/`](../data/)，执行 `python scripts/build_library.py` 同步所有导出与小程序。', '- 执行 `python scripts/build_library.py --check` 检查导出是否与原始转录一致。', '', '## 数据口径', '', '热量按图中对应份量记录，不是统一每100克。去酱、带皮／去皮属于独立版本，不代表可互相累加。区间不取平均值。营养约数保留来源说明。截图发布日期、地区和当前在售状态未核实。水印遮挡值留空，图片热量与宏量营养素不一致时保留原值并备注。', '', 'Wagas、麦当劳、Tims 和袁记云饺的宏量营养值暂缺；肯德基按较清晰截图转录，不表示经过官方验证。部分餐食、包装与饮料规格仍待核对。', '', '不使用 USDA。原图及原作者内容的再分发许可未核实，本目录仅包含结构化转录和来源说明；未上传整张截图。', '']
+    index += ['', '## 下载和使用', '', '- [CSV 表格](foods.csv)：Excel/WPS 导入，UTF-8 BOM；空单元格表示未知。', '- [JSON 数据](foods.json)：保留来源、页码、位置、区间和待核对备注。', '- 原始转录维护在 [`data/`](../data/)，执行 `python scripts/build_library.py` 同步所有导出与小程序。', '- 执行 `python scripts/build_library.py --check` 检查导出是否与原始转录一致。', '', '## 数据口径', '', '热量按图中对应份量记录，不是统一每100克。去酱、带皮／去皮属于独立版本，不代表可互相累加。区间不取平均值。营养约数保留来源说明。截图发布日期、地区和当前在售状态未核实。水印遮挡值留空，图片热量与宏量营养素不一致时保留原值并备注。', '', '多数条目的宏量营养值暂缺；肯德基及部分麦当劳限定餐品按较清晰截图转录，不表示经过官方验证。部分餐食、包装与饮料规格仍待核对。', '', '不使用 USDA。原图及原作者内容的再分发许可未核实，本目录仅包含结构化转录和来源说明；未上传整张截图。', '']
     output['food-library/README.md'] = '\n'.join(index)
     return output
 

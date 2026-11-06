@@ -22,7 +22,7 @@ test('每块口径和额外米饭热量不被混淆', () => {
 });
 
 test('麦当劳截图保留50项、零热量与未知规格', () => {
-  const mcd = allMenu.filter(x => x.brand === '麦当劳');
+  const mcd = allMenu.filter(x => x.brand === '麦当劳' && x.id.startsWith('mcd-xhs-'));
   assert.equal(mcd.length, 50);
   assert.equal(new Set(mcd.map(x => x.name)).size, 50);
   assert.deepEqual(mcd, require('../data/mcdonalds-xhs-screenshots.json'));
@@ -91,4 +91,15 @@ test('奈雪保留甜度、零热量、分装配料和去料后总热量', () =>
   assert.equal(items.find(x => x.name === '手熬黑糖珍珠鲜牛奶（去黑糖珍珠）').kcal, 120);
   assert.equal(items.find(x => x.name === '黑糖珍珠').kcal, 180);
   assert.ok(items.every(x => x.protein === null));
+});
+test('补充截图保留冲突值、去酱总热量和份量', () => {
+  const mcd = allMenu.filter(x => x.brand === '麦当劳');
+  assert.deepEqual(mcd.filter(x => x.name === '脆薯饼').map(x => x.kcal).sort(), [146, 149]);
+  assert.equal(mcd.find(x => x.name === '双层原味板烧鸡腿麦满分（去酱）').kcal, 310);
+  assert.ok(mcd.find(x => x.name === '猪柳麦满分').additionalEvidence.length > 0);
+  const hefu = allMenu.filter(x => x.brand === '和府捞面');
+  assert.equal(hefu.length, 35);
+  assert.equal(hefu.find(x => x.name === '和牛牛肉串').serving, '4串');
+  assert.match(hefu.find(x => x.name === '番茄沙葱腿肉面·现煮').notes, /不含汤/);
+  assert.equal(mcd.find(x => x.name === '三文鱼双虾至尊月堡').protein, 25.3);
 });

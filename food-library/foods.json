@@ -1,5 +1,915 @@
 [
   {
+    "id": "hefu-xhs-001",
+    "brand": "和府捞面",
+    "name": "经典2号·番茄软骨面",
+    "kcal": 521,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-002",
+    "brand": "和府捞面",
+    "name": "番茄沙葱腿肉面·现煮",
+    "kcal": 569,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-003",
+    "brand": "和府捞面",
+    "name": "酸辣沙葱腿肉面·现煮",
+    "kcal": 583,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-004",
+    "brand": "和府捞面",
+    "name": "香辣沙葱腿肉面·现煮",
+    "kcal": 564,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-005",
+    "brand": "和府捞面",
+    "name": "经典1号·草本猪软骨面",
+    "kcal": 528,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-006",
+    "brand": "和府捞面",
+    "name": "经典3号·酸辣肥牛面",
+    "kcal": 519,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-007",
+    "brand": "和府捞面",
+    "name": "香辣肥牛面·现煮",
+    "kcal": 594,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-008",
+    "brand": "和府捞面",
+    "name": "黑塌菜卤肉砂锅饭",
+    "kcal": 830,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-009",
+    "brand": "和府捞面",
+    "name": "黑塌菜猪软骨饭",
+    "kcal": 750,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-010",
+    "brand": "和府捞面",
+    "name": "酸辣深海虾面·现煮",
+    "kcal": 550,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-011",
+    "brand": "和府捞面",
+    "name": "番茄芝士肥牛面·现煮",
+    "kcal": 665,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-012",
+    "brand": "和府捞面",
+    "name": "爆汁脆皮烤鸡",
+    "kcal": 552,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-013",
+    "brand": "和府捞面",
+    "name": "番茄深海虾面·现煮",
+    "kcal": 496,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-014",
+    "brand": "和府捞面",
+    "name": "藤椒鸡排",
+    "kcal": 225,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-015",
+    "brand": "和府捞面",
+    "name": "爆浆芝士香肠",
+    "kcal": 137,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-016",
+    "brand": "和府捞面",
+    "name": "宝宝黄金土豆",
+    "kcal": 132,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-017",
+    "brand": "和府捞面",
+    "name": "自家金玉炸虾",
+    "kcal": 77,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-018",
+    "brand": "和府捞面",
+    "name": "藤椒牛油果鸡丝拌面",
+    "kcal": 568,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-019",
+    "brand": "和府捞面",
+    "name": "藜麦拌长寿乡黑塌菜",
+    "kcal": 166,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-020",
+    "brand": "和府捞面",
+    "name": "江南野菜虾仁春卷",
+    "kcal": 78,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-021",
+    "brand": "和府捞面",
+    "name": "长寿乡拌豆干",
+    "kcal": 159,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-022",
+    "brand": "和府捞面",
+    "name": "老卤凤爪",
+    "kcal": 78,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-023",
+    "brand": "和府捞面",
+    "name": "长寿乡手作香肠",
+    "kcal": 189,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-024",
+    "brand": "和府捞面",
+    "name": "长寿乡糖醋萝卜",
+    "kcal": 32,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-025",
+    "brand": "和府捞面",
+    "name": "大师溏心蛋",
+    "kcal": 37,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-026",
+    "brand": "和府捞面",
+    "name": "黄金鳕鱼棒",
+    "kcal": 80,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-027",
+    "brand": "和府捞面",
+    "name": "捞汁脆爽黄瓜",
+    "kcal": 66,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-028",
+    "brand": "和府捞面",
+    "name": "酸辣海带丝",
+    "kcal": 85,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-029",
+    "brand": "和府捞面",
+    "name": "炸小酥肉",
+    "kcal": 278,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-030",
+    "brand": "和府捞面",
+    "name": "黑金鸡块",
+    "kcal": 391,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-031",
+    "brand": "和府捞面",
+    "name": "和牛牛肉串",
+    "kcal": 82,
+    "category": "配餐",
+    "serving": "4串",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-032",
+    "brand": "和府捞面",
+    "name": "老上海猪排",
+    "kcal": 210,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-033",
+    "brand": "和府捞面",
+    "name": "北海渔肉酱拌面",
+    "kcal": 701,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-034",
+    "brand": "和府捞面",
+    "name": "擂椒皮蛋拌面",
+    "kcal": 698,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-035",
+    "brand": "和府捞面",
+    "name": "沪弄堂葱油拌面",
+    "kcal": 495,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
     "name": "纯果乐百分百苹果汁",
     "kcal": 118,
     "fat": 0,
@@ -1412,6 +2322,956 @@
     "nutritionPrecision": "截图参考值（部分标为约数）"
   },
   {
+    "id": "mcd-update-xhs-001",
+    "brand": "麦当劳",
+    "name": "原味板烧鸡腿麦满分（去酱）",
+    "kcal": 220,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-002",
+    "brand": "麦当劳",
+    "name": "大脆鸡扒麦满分（去酱）",
+    "kcal": 320,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-003",
+    "brand": "麦当劳",
+    "name": "双层板烧鸡腿麦满分",
+    "kcal": 335,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；与早期截图同名餐品热量不同，按本次截图单独保留，不覆盖旧值。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-004",
+    "brand": "麦当劳",
+    "name": "双层原味板烧鸡腿麦满分（去酱）",
+    "kcal": 310,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-005",
+    "brand": "麦当劳",
+    "name": "吉士蛋麦满分",
+    "kcal": 315,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-006",
+    "brand": "麦当劳",
+    "name": "吉士蛋麦满分（去酱）",
+    "kcal": 270,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-007",
+    "brand": "麦当劳",
+    "name": "火腿扒早安营养卷（去酱）",
+    "kcal": 380,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-008",
+    "brand": "麦当劳",
+    "name": "双层猪柳蛋麦满分",
+    "kcal": 513,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；与早期截图同名餐品热量不同，按本次截图单独保留，不覆盖旧值。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-009",
+    "brand": "麦当劳",
+    "name": "原味板烧鸡腿炒双蛋堡（去酱）",
+    "kcal": 380,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-010",
+    "brand": "麦当劳",
+    "name": "猪柳炒双蛋堡（去酱）",
+    "kcal": 390,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-011",
+    "brand": "麦当劳",
+    "name": "图林根香肠早安营养卷（去酱）",
+    "kcal": 360,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；去酱后总热量；不是扣减量。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-012",
+    "brand": "麦当劳",
+    "name": "巧克力味厚松饼猪柳蛋堡",
+    "kcal": 598,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-013",
+    "brand": "麦当劳",
+    "name": "巧克力味厚松饼猪柳堡",
+    "kcal": 512,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-014",
+    "brand": "麦当劳",
+    "name": "枫糖风味厚松饼猪柳蛋堡",
+    "kcal": 537,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-015",
+    "brand": "麦当劳",
+    "name": "枫糖风味厚松饼猪柳堡",
+    "kcal": 451,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-016",
+    "brand": "麦当劳",
+    "name": "脆薯饼",
+    "kcal": 149,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；与早期截图同名餐品热量不同，按本次截图单独保留，不覆盖旧值。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-017",
+    "brand": "麦当劳",
+    "name": "北非蛋风味猪柳蛋麦满分",
+    "kcal": 496,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-018",
+    "brand": "麦当劳",
+    "name": "北非蛋风味脆鸡排麦满分",
+    "kcal": 497,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-019",
+    "brand": "麦当劳",
+    "name": "北非蛋风味麦满分",
+    "kcal": 379,
+    "category": "早餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-020",
+    "brand": "麦当劳",
+    "name": "浓浓黑巧",
+    "kcal": 135,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-021",
+    "brand": "麦当劳",
+    "name": "浓浓燕麦黑巧",
+    "kcal": 120,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-022",
+    "brand": "麦当劳",
+    "name": "燕麦奶",
+    "kcal": 167,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-023",
+    "brand": "麦当劳",
+    "name": "美禄可可雪冰",
+    "kcal": 248,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-024",
+    "brand": "麦当劳",
+    "name": "麦咖啡™美式",
+    "kcal": 7,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-025",
+    "brand": "麦当劳",
+    "name": "燕麦奶铁",
+    "kcal": 132,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-026",
+    "brand": "麦当劳",
+    "name": "卡布奇诺",
+    "kcal": 167,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-027",
+    "brand": "麦当劳",
+    "name": "鲜萃咖啡",
+    "kcal": 7,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-028",
+    "brand": "麦当劳",
+    "name": "浓缩咖啡",
+    "kcal": 7,
+    "category": "饮品",
+    "serving": "图示杯（容量、糖度未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "麦当劳早餐热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-029",
+    "brand": "麦当劳",
+    "name": "月下相思扭扭薯",
+    "kcal": 318,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-030",
+    "brand": "麦当劳",
+    "name": "泷愿成真麦旋风",
+    "kcal": 386,
+    "category": "甜点",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-031",
+    "brand": "麦当劳",
+    "name": "举杯邀月柚桂茶",
+    "kcal": 118,
+    "category": "饮品",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-032",
+    "brand": "麦当劳",
+    "name": "大米派",
+    "kcal": 240,
+    "category": "甜点",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-033",
+    "brand": "麦当劳",
+    "name": "奶香大米圆筒（双旋）",
+    "kcal": 180,
+    "category": "甜点",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-034",
+    "brand": "麦当劳",
+    "name": "奶香大米圆筒（单旋）",
+    "kcal": 166,
+    "category": "甜点",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；中秋限定，年份和目前在售状态未知；图中标为热量预估。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "麦当劳中秋限定热量分享"
+    }
+  },
+  {
+    "id": "mcd-update-xhs-035",
+    "brand": "麦当劳",
+    "name": "三文鱼双虾至尊月堡",
+    "kcal": 632,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": 25.3,
+    "carbs": 62,
+    "fat": 38,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图中标为预估，年份和在售状态未知；配料分项已包含在总热量中。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳中秋限定热量分享"
+    },
+    "components": {
+      "上下汉堡胚": 197,
+      "生菜": 3,
+      "炸虾仁饼": 70,
+      "太阳蛋": 87,
+      "炸烟熏三文鱼排": 226,
+      "烟熏辣奶油风味酱": 49
+    }
+  },
+  {
+    "id": "mcd-update-xhs-036",
+    "brand": "麦当劳",
+    "name": "三文鱼双虾至尊月堡（原图下方鸡腿排款，名称待核实）",
+    "kcal": 576,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": 32,
+    "carbs": 60,
+    "fat": 30,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；原图上下标题重复，但下方配料为咸蛋黄风味鸡腿排；不猜测正式名称。预估热量，年份未知。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」麦当劳中秋限定热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "麦当劳中秋限定热量分享"
+    },
+    "components": {
+      "上下汉堡胚": 197,
+      "咸蛋黄沙拉酱": 82,
+      "太阳蛋": 87,
+      "咸蛋黄风味鸡腿排": 210
+    }
+  },
+  {
     "id": "mcd-xhs-1-01",
     "brand": "麦当劳",
     "name": "巨无霸汉堡",
@@ -1868,7 +3728,15 @@
       "page": 2,
       "position": "右列2",
       "kcalLabel": "53 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 53,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-2-08",
@@ -2030,7 +3898,15 @@
       "page": 3,
       "position": "左列3",
       "kcalLabel": "308 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 308,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-04",
@@ -2084,7 +3960,15 @@
       "page": 3,
       "position": "左列5",
       "kcalLabel": "361 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 361,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-06",
@@ -2165,7 +4049,15 @@
       "page": 3,
       "position": "右列3",
       "kcalLabel": "387 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 387,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-09",
@@ -2192,7 +4084,15 @@
       "page": 3,
       "position": "右列4",
       "kcalLabel": "261 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 261,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-10",
@@ -2219,7 +4119,15 @@
       "page": 3,
       "position": "右列5",
       "kcalLabel": "246 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 246,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-01",
@@ -2273,7 +4181,15 @@
       "page": 4,
       "position": "左列2",
       "kcalLabel": "437 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 437,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-03",
@@ -2300,7 +4216,15 @@
       "page": 4,
       "position": "左列3",
       "kcalLabel": "425 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 425,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-04",
@@ -2354,7 +4278,15 @@
       "page": 4,
       "position": "左列5",
       "kcalLabel": "202 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 202,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-06",
@@ -2381,7 +4313,15 @@
       "page": 4,
       "position": "右列1",
       "kcalLabel": "419 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 419,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-07",
@@ -2408,7 +4348,15 @@
       "page": 4,
       "position": "右列2",
       "kcalLabel": "444 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 444,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-08",
@@ -2489,7 +4437,15 @@
       "page": 4,
       "position": "右列5",
       "kcalLabel": "87 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 87,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-5-01",

@@ -456,7 +456,15 @@
       "page": 2,
       "position": "右列2",
       "kcalLabel": "53 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 53,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-2-08",
@@ -618,7 +626,15 @@
       "page": 3,
       "position": "左列3",
       "kcalLabel": "308 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 308,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-04",
@@ -672,7 +688,15 @@
       "page": 3,
       "position": "左列5",
       "kcalLabel": "361 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 361,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-06",
@@ -753,7 +777,15 @@
       "page": 3,
       "position": "右列3",
       "kcalLabel": "387 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 387,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-09",
@@ -780,7 +812,15 @@
       "page": 3,
       "position": "右列4",
       "kcalLabel": "261 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 261,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-3-10",
@@ -807,7 +847,15 @@
       "page": 3,
       "position": "右列5",
       "kcalLabel": "246 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 246,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-01",
@@ -861,7 +909,15 @@
       "page": 4,
       "position": "左列2",
       "kcalLabel": "437 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 437,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-03",
@@ -888,7 +944,15 @@
       "page": 4,
       "position": "左列3",
       "kcalLabel": "425 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 425,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-04",
@@ -942,7 +1006,15 @@
       "page": 4,
       "position": "左列5",
       "kcalLabel": "202 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 202,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-06",
@@ -969,7 +1041,15 @@
       "page": 4,
       "position": "右列1",
       "kcalLabel": "419 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 419,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-07",
@@ -996,7 +1076,15 @@
       "page": 4,
       "position": "右列2",
       "kcalLabel": "444 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 1,
+        "kcal": 444,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-4-08",
@@ -1077,7 +1165,15 @@
       "page": 4,
       "position": "右列5",
       "kcalLabel": "87 kcal"
-    }
+    },
+    "additionalEvidence": [
+      {
+        "series": "麦当劳早餐热量分享",
+        "page": 2,
+        "kcal": 87,
+        "sourceTitle": "小红书「林黛玉的热量研究所」麦当劳早餐热量分享"
+      }
+    ]
   },
   {
     "id": "mcd-xhs-5-01",

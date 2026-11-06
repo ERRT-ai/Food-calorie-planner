@@ -1,0 +1,912 @@
+[
+  {
+    "id": "hefu-xhs-001",
+    "brand": "和府捞面",
+    "name": "经典2号·番茄软骨面",
+    "kcal": 521,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-002",
+    "brand": "和府捞面",
+    "name": "番茄沙葱腿肉面·现煮",
+    "kcal": 569,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-003",
+    "brand": "和府捞面",
+    "name": "酸辣沙葱腿肉面·现煮",
+    "kcal": 583,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-004",
+    "brand": "和府捞面",
+    "name": "香辣沙葱腿肉面·现煮",
+    "kcal": 564,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；图片注明不含汤。",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-005",
+    "brand": "和府捞面",
+    "name": "经典1号·草本猪软骨面",
+    "kcal": 528,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-006",
+    "brand": "和府捞面",
+    "name": "经典3号·酸辣肥牛面",
+    "kcal": 519,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-007",
+    "brand": "和府捞面",
+    "name": "香辣肥牛面·现煮",
+    "kcal": 594,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-008",
+    "brand": "和府捞面",
+    "name": "黑塌菜卤肉砂锅饭",
+    "kcal": 830,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-009",
+    "brand": "和府捞面",
+    "name": "黑塌菜猪软骨饭",
+    "kcal": 750,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 1,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-010",
+    "brand": "和府捞面",
+    "name": "酸辣深海虾面·现煮",
+    "kcal": 550,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-011",
+    "brand": "和府捞面",
+    "name": "番茄芝士肥牛面·现煮",
+    "kcal": 665,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-012",
+    "brand": "和府捞面",
+    "name": "爆汁脆皮烤鸡",
+    "kcal": 552,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-013",
+    "brand": "和府捞面",
+    "name": "番茄深海虾面·现煮",
+    "kcal": 496,
+    "category": "主餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-014",
+    "brand": "和府捞面",
+    "name": "藤椒鸡排",
+    "kcal": 225,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-015",
+    "brand": "和府捞面",
+    "name": "爆浆芝士香肠",
+    "kcal": 137,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-016",
+    "brand": "和府捞面",
+    "name": "宝宝黄金土豆",
+    "kcal": 132,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-017",
+    "brand": "和府捞面",
+    "name": "自家金玉炸虾",
+    "kcal": 77,
+    "category": "配餐",
+    "serving": "1份（规格未提供）",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 2,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-018",
+    "brand": "和府捞面",
+    "name": "藤椒牛油果鸡丝拌面",
+    "kcal": 568,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-019",
+    "brand": "和府捞面",
+    "name": "藜麦拌长寿乡黑塌菜",
+    "kcal": 166,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-020",
+    "brand": "和府捞面",
+    "name": "江南野菜虾仁春卷",
+    "kcal": 78,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-021",
+    "brand": "和府捞面",
+    "name": "长寿乡拌豆干",
+    "kcal": 159,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-022",
+    "brand": "和府捞面",
+    "name": "老卤凤爪",
+    "kcal": 78,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-023",
+    "brand": "和府捞面",
+    "name": "长寿乡手作香肠",
+    "kcal": 189,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-024",
+    "brand": "和府捞面",
+    "name": "长寿乡糖醋萝卜",
+    "kcal": 32,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-025",
+    "brand": "和府捞面",
+    "name": "大师溏心蛋",
+    "kcal": 37,
+    "category": "配餐",
+    "serving": "1个",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 3,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-026",
+    "brand": "和府捞面",
+    "name": "黄金鳕鱼棒",
+    "kcal": 80,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-027",
+    "brand": "和府捞面",
+    "name": "捞汁脆爽黄瓜",
+    "kcal": 66,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-028",
+    "brand": "和府捞面",
+    "name": "酸辣海带丝",
+    "kcal": 85,
+    "category": "配菜",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-029",
+    "brand": "和府捞面",
+    "name": "炸小酥肉",
+    "kcal": 278,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-030",
+    "brand": "和府捞面",
+    "name": "黑金鸡块",
+    "kcal": 391,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-031",
+    "brand": "和府捞面",
+    "name": "和牛牛肉串",
+    "kcal": 82,
+    "category": "配餐",
+    "serving": "4串",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-032",
+    "brand": "和府捞面",
+    "name": "老上海猪排",
+    "kcal": 210,
+    "category": "配餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-033",
+    "brand": "和府捞面",
+    "name": "北海渔肉酱拌面",
+    "kcal": 701,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-034",
+    "brand": "和府捞面",
+    "name": "擂椒皮蛋拌面",
+    "kcal": 698,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  },
+  {
+    "id": "hefu-xhs-035",
+    "brand": "和府捞面",
+    "name": "沪弄堂葱油拌面",
+    "kcal": 495,
+    "category": "主餐",
+    "serving": "1份",
+    "protein": null,
+    "carbs": null,
+    "fat": null,
+    "region": "未核实",
+    "notes": "第三方截图参考值，非官方；",
+    "reviewStatus": "image_transcribed_estimate",
+    "source": {
+      "type": "community_screenshot",
+      "title": "小红书「林黛玉的热量研究所」和府捞面热量分享（用户截图）",
+      "url": null,
+      "transcribedAt": "2026-11-06",
+      "publishedAt": null,
+      "permission": "用户提供截图用于整理；未核实再分发许可"
+    },
+    "evidence": {
+      "page": 4,
+      "series": "和府捞面热量分享"
+    }
+  }
+]
