@@ -1,6 +1,7 @@
 {
   "pages": [
-    "pages/index/index"
+    "pages/index/index",
+    "pages/bowl/index"
   ],
   "window": {
     "navigationBarTitleText": "今晚吃多少",

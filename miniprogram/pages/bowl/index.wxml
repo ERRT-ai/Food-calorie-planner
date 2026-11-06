@@ -1,0 +1,35 @@
+<view class="container">
+  <view class="title">超级碗 · 配料计算</view>
+  <view class="note">总热量＝各项主食、蛋白质食材、蔬菜、撒料及酱料之和。当前尚无核实的 FOODBOWL 配料数据，请按店内清晰标注手动输入。每项都是实际加入的量；不要同时加入整碗和其配料。</view>
+  <view class="card">
+    <label>目标热量 kcal（可选）</label>
+    <input type="digit" value="{{target}}" bindinput="targetInput" />
+  </view>
+  <view class="card" wx:for="{{rows}}" wx:key="id">
+    <picker range="{{categories}}" value="{{item.categoryIndex}}" data-id="{{item.id}}" data-field="categoryIndex" bindchange="edit"><view class="picker">{{categories[item.categoryIndex]}} ▾</view></picker>
+    <input placeholder="配料名称" value="{{item.name}}" data-id="{{item.id}}" data-field="name" bindinput="edit" />
+    <picker range="{{bases}}" value="{{item.basisIndex}}" data-id="{{item.id}}" data-field="basisIndex" bindchange="edit"><view class="picker">标注口径：{{bases[item.basisIndex]}} ▾</view></picker>
+    <view class="note">切换口径会清空数值，避免混用。</view>
+    <label>实际加入{{item.basisIndex === 0 ? '份数（半份填0.5）' : '克数'}}</label>
+    <input type="digit" value="{{item.amount}}" data-id="{{item.id}}" data-field="amount" bindinput="edit" />
+    <label>{{bases[item.basisIndex]}}的热量 kcal（未知留空）</label>
+    <input type="digit" value="{{item.kcal}}" data-id="{{item.id}}" data-field="kcal" bindinput="edit" />
+    <label>以下均按{{bases[item.basisIndex]}}填写，单位 g；未知留空</label>
+    <input placeholder="蛋白质" type="digit" value="{{item.protein}}" data-id="{{item.id}}" data-field="protein" bindinput="edit" />
+    <input placeholder="碳水" type="digit" value="{{item.carbs}}" data-id="{{item.id}}" data-field="carbs" bindinput="edit" />
+    <input placeholder="脂肪" type="digit" value="{{item.fat}}" data-id="{{item.id}}" data-field="fat" bindinput="edit" />
+    <input placeholder="来源或备注，如店内标签" value="{{item.source}}" data-id="{{item.id}}" data-field="source" bindinput="edit" />
+    <button size="mini" data-id="{{item.id}}" bindtap="remove">删除这项</button>
+  </view>
+  <button bindtap="add">添加配料</button>
+  <button class="action" bindtap="calculate">计算当前组合</button>
+  <view class="error" wx:if="{{error}}">{{error}}</view>
+  <view class="card" wx:if="{{result}}">
+    <view wx:if="{{result.complete}}" class="title">{{result.energyLabel}}</view>
+    <view wx:else><view>已知部分：{{result.subtotals.kcal}} kcal</view><view>缺少 {{result.missingLabel}} 的热量，无法给出整碗合计。</view></view>
+    <view>{{result.comparison}}</view>
+    <view class="note">蛋白质 {{result.proteinLabel}} · 碳水 {{result.carbsLabel}} · 脂肪 {{result.fatLabel}}</view>
+    <view wx:for="{{result.lines}}" wx:key="id" class="line">{{item.name}}：{{item.energyLabel}}<view class="note">{{item.source}}</view></view>
+    <view class="note">仅为已添加配料的计算结果。请检查酱料、撒料、默认底料是否漏填；未填营养值不等于0。手动输入结果不代表品牌官方数据。</view>
+  </view>
+</view>

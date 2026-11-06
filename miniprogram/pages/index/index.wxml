@@ -2,6 +2,7 @@
   <view class="eyebrow">DINNER PLANNER</view>
   <view class="title">今晚，吃得刚刚好</view>
   <view class="subtitle">按餐食热量查找晚餐；请留意来源与份量。</view>
+  <navigator class="card" url="/pages/bowl/index">自选超级碗：按配料计算热量 →</navigator>
   <view class="card">
     <label>晚餐目标热量 · kcal</label>
     <input type="digit" value="{{target}}" bindinput="onTarget" placeholder="例如 600" />
