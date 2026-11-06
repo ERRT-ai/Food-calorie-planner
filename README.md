@@ -25,3 +25,24 @@
 ## 下一步
 
 确定品牌所在地区与官方数据来源，核验使用权限后录入菜单；再扩展餐食组合、忌口和在家复刻食谱。
+
+## 小红书公开笔记采集（Python 3.9+，无第三方依赖）
+
+```bash
+python scripts/collect_note.py --brand Wagas --url 'https://xhslink.cn/o/1wjbyWMuJP1'
+# 若页面不可读：将有权使用的正文或人工核对的图片文字保存到 work/note.txt
+python scripts/collect_note.py --brand Wagas --url '原始笔记链接' --text-file work/note.txt
+python -m unittest discover -s tests -p 'test_*.py'
+```
+
+转录格式为一行一道菜，例如：`测试餐碗 540 kcal 蛋白质 25g`（此行仅展示格式，不是真实品牌数据）。
+默认结果保存到 `work/note-candidates.json`，包含来源、采集时间、原始证据行和待审核状态。
+来源类型始终标为第三方笔记；未提供的蛋白质、碳水、脂肪为 null。
+份量和地区默认“未核实”，可在核对原文后通过 `--serving`、`--region` 设置。
+不推断每100克到每份的换算，不把区间热量当成精确数值。
+脚本检查 robots.txt；不会登录、使用 Cookie、生成签名、绕过验证或自动 OCR 配图。
+跨域短链接跳转会停止，需提供浏览器打开后的完整公开链接。
+只处理公开元描述和严格 JSON 状态中的文字，图片、动态加载及非 JSON 脚本可能无法解析。
+候选数据不会自动写入正式菜单。需要人工核对菜名、份量、营养口径与数据使用依据。
+
+本次检查：Wagas 与 Tims 中国官网未找到可直接采集的完整营养表；FatSecret 搜索结果中有部分 Tims 记录，但不是品牌官方数据，未写入菜单。用户提供的小红书短链接在当前环境返回 404，未提取到笔记数值。
